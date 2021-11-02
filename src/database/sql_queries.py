@@ -1,7 +1,7 @@
 import json
 from collections import defaultdict
 
-from sqlalchemy import select, func, create_engine
+from sqlalchemy import select, func, create_engine, text
 
 from src.database.helpers import phone_dict_from_str, address_dict_from_str, name_dict_from_list, date_dict_from_str
 from src.database.schema_def import Phone, Contact, Date, Address
@@ -134,8 +134,38 @@ class Queries:
 
         return con_json
 
+    def search_database(self, search_string):
+        with self.engine.connect() as conn:
+            search_string = search_string.replace(";", " AND")
+            search_string = search_string.replace(",", " OR")
+            try:
+                res = conn.execute(text(
+                    f"""
+                        select distinct contact_id
+                        from simplified_text_search
+                        where simplified_text_search
+                        match '{search_string}'
+                        """
+                ))
+            except Exception as e:
+                print(e.args)
+                return self.get_combined_contact_info(), self.get_contacts_json()
+
+            cids = [r[0] for r in res]
+            res_v_cids = conn.execute(text("select contact_id from contact"))
+            valid_cids = [r[0] for r in res_v_cids]
+            list_dict = Queries().get_combined_contact_info()
+            filtered_combined_contact_info = {key: list_dict.get(key, [""]*6) for key in cids if key in valid_cids}
+            dict_dict = Queries().get_contacts_json()
+            filtered_contacts_json = {key: dict_dict.get(key, {}) for key in cids if key in valid_cids}
+            return filtered_combined_contact_info, filtered_contacts_json
+
 
 if __name__ == "__main__":
-    print(json.dumps(Queries().get_contacts_json(), indent="\t"))
-    print(Queries().get_contacts_json()[1])
-    print(Queries().get_combined_contact_info())
+
+    # print(json.dumps(Queries().get_contacts_json(), indent="\t"))
+    # print(Queries().get_contacts_json()[1])
+    # print(Queries().get_combined_contact_info())
+    a, b = Queries().search_database("Dallas; Texas")
+    print(a)
+    print(b)

@@ -145,7 +145,7 @@ class TableChanges:
 
 if __name__ == "__main__":
 
-    CHECK_CASES = {5}
+    CHECK_CASES = {4}
     x = TableChanges()
 
     if 1 in CHECK_CASES:

@@ -22,7 +22,7 @@ def csv_to_json(csv_loc):
             "phones": {c: v for c, v in zip(phone_cols, row[phone_cols].to_list()) if pd.notna(v)},
             "dates": {"birth_date": row[date_cols][0]} if pd.notna(row[date_cols][0]) else None
         }
-        if i == 1:
+        if i == -1:
             print(json.dumps(entries[i], indent="\t"))
 
     return entries
