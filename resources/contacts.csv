@@ -1,0 +1,1001 @@
+contact_id,first_name,middle_name,last_name,home_phone,cell_phone,home_address,home_city,home_state,home_zip,work_phone,work_address,work_city,work_state,work_zip,birth_date
+1,Cindra,Del,Philipeaux,,732-392-7165,,,,75018,575-780-6421,90103 Glacier Hill Terrace,Plano,Texas,75003,
+2,Sherwood,,Spoerl,441-557-2835,907-913-3698,2287 Sutteridge Park,Dallas,Texas,75062,526-691-3663,37 Sommers Hill,Addison,Texas,75006,1986-06-07
+3,Crosby,,Seide,998-239-4082,637-715-3867,,,,75029,470-347-7202,,,,,1965-06-23
+4,Hogan,,Spafford,,359-747-1907,,,,75099,,3 Mccormick Parkway,Allen,Texas,75008,
+5,Kenton,Rog,Sibbald,317-756-0975,543-710-0843,62477 Hovde Hill,Allen,Texas,75061,672-643-5210,35836 Banding Way,Richardson,Texas,75004,1972-05-11
+6,Brand,Melisande,Morkham,,227-992-2900,06 Heffernan Center,Richardson,Texas,,935-221-4565,44 Farragut Avenue,Addison,Texas,75009,1984-08-19
+7,Adina,,Richardon,,181-781-9784,,,,75031,,,,,,
+8,Maddalena,Ettore,O' Hern,,871-791-7851,16515 Nova Hill,Allen,Texas,75041,420-902-8960,363 Truax Trail,Addison,Texas,75005,
+9,Claus,,Gensavage,,933-257-7616,626 Orin Center,Addison,Texas,,536-596-8574,17 Clyde Gallagher Alley,Richardson,Texas,75007,
+10,Antonia,,Wolstencroft,449-971-7759,747-303-4705,6687 Dottie Plaza,Richardson,Texas,75027,405-746-6553,,,,,
+11,Doll,Cristy,Kill,790-832-4539,423-257-0444,8 Luster Terrace,Dallas,Texas,75059,,,,,,1987-05-13
+12,Maritsa,Priscilla,Tinsey,812-671-2569,537-987-3004,,,,75076,974-398-8066,,,,,1994-09-15
+13,Ward,Nellie,Shackell,,994-189-5386,15 Jackson Lane,Allen,Texas,75013,,8705 West Junction,Addison,Texas,75008,1974-11-26
+14,Cybill,Sissie,Ratazzi,454-730-8259,223-746-7737,79254 Pond Center,Dallas,Texas,75083,,,,,,1993-12-01
+15,Harriet,Herminia,Swin,,769-740-9664,9 Logan Parkway,Dallas,Texas,75078,944-146-6149,,,,,1986-12-30
+16,Homerus,,Dugood,629-438-4169,275-477-5499,65052 Heath Point,Plano,Texas,75046,100-718-3343,,,,,
+17,Reuven,,Capstaff,804-209-6009,272-367-4116,,,,75005,,3522 Butternut Place,Plano,Texas,75001,
+18,Lilian,,Perrin,,770-282-5502,8 Fuller Road,Addison,Texas,75088,725-135-7813,,,,,
+19,Dorey,Katheryn,Seamons,,131-155-6846,1961 Division Hill,Addison,Texas,,373-829-6128,,,,,
+20,Emmie,Bennie,Dust,,452-967-2050,,,,75042,205-867-7790,51819 Donald Trail,Richardson,Texas,75002,
+21,Palm,,Tuhy,,310-517-1998,,,,75060,136-209-9292,,,,,
+22,Jakie,Eddy,Muehle,130-493-8381,905-442-0240,528 Main Junction,Dallas,Texas,75046,732-735-8158,3715 Muir Park,Dallas,Texas,75005,
+23,Torin,,McHaffy,234-782-3406,886-702-1908,9086 Sommers Crossing,Richardson,Texas,,,4 Emmet Junction,Plano,Texas,75004,1986-06-11
+24,Bjorn,,Crathorne,387-995-2640,562-617-1312,,,,75099,364-839-7318,,,,,1996-04-27
+25,Mariana,Ebenezer,Titmarsh,,873-511-6075,83 Shoshone Parkway,Plano,Texas,75046,754-815-2133,2 Lillian Drive,Addison,Texas,75001,1979-12-31
+26,Clemmy,,Widdup,,826-297-4157,333 Scoville Hill,Allen,Texas,75091,,6 Michigan Pass,Dallas,Texas,75004,1994-02-25
+27,Darrell,Egon,Lokier,,770-453-6125,18894 Division Lane,Richardson,Texas,75083,205-324-5139,2408 Riverside Parkway,Plano,Texas,75007,1979-06-09
+28,Thornton,,Kennaird,,806-105-9954,250 2nd Drive,Richardson,Texas,,742-339-9060,,,,,1978-11-06
+29,Philip,Jaquith,Edworthye,388-488-7596,899-522-4338,85701 Basil Road,Allen,Texas,75004,570-895-9983,,,,,
+30,Dud,,Harvison,744-544-2543,993-228-0137,23 Kings Lane,Plano,Texas,75086,,,,,,1974-09-21
+31,Marcia,Etheline,Godwin,,939-693-0069,4 Maple Trail,Richardson,Texas,,612-222-9943,81910 Towne Hill,Plano,Texas,75007,
+32,Marilyn,Andra,McKinney,742-302-1759,330-860-4567,504 Bayside Pass,Dallas,Texas,75060,,,,,,1971-12-02
+33,Marget,,Stoller,154-670-0891,,,,,75009,555-996-6608,,,,,
+34,Lemmie,,Strowther,,189-158-2552,26 Towne Road,Richardson,Texas,75047,955-258-7776,2 Farwell Park,Allen,Texas,75008,1970-03-31
+35,Giorgi,,Di Biaggi,656-894-9957,929-650-9987,9324 Onsgard Parkway,Dallas,Texas,,,5031 Service Trail,Dallas,Texas,75003,
+36,Robyn,Gillan,Salvati,,713-373-4369,016 Oak Valley Parkway,Dallas,Texas,,844-442-7505,1096 5th Drive,Richardson,Texas,75008,1981-02-06
+37,Jarrad,Ketti,Cattonnet,,708-580-5566,660 Truax Way,Dallas,Texas,75037,222-834-2561,,,,,1966-09-21
+38,Valeria,,Dillingston,581-510-2303,544-254-3783,75903 Linden Circle,Plano,Texas,75045,277-275-7948,,,,,
+39,Regina,Lexis,Emlyn,280-345-6777,918-967-1567,36 Alpine Drive,Richardson,Texas,,337-587-0981,868 Continental Road,Plano,Texas,75005,
+40,Merrile,,Danielsky,549-882-4758,441-572-3400,6 Muir Circle,Dallas,Texas,75078,147-887-5649,66986 Vidon Trail,Richardson,Texas,75003,1989-08-18
+41,Rozelle,,Patington,955-332-1578,798-797-3341,5395 Becker Drive,Plano,Texas,75011,,8 Luster Circle,Addison,Texas,75004,
+42,Susi,Salomone,Spurritt,,519-774-5168,4585 Bluestem Avenue,Plano,Texas,75013,,97544 Arizona Crossing,Allen,Texas,75001,1978-06-16
+43,Dorena,Allayne,Heathcott,935-397-8398,808-824-0672,9 Orin Alley,Richardson,Texas,75002,346-177-2480,3 5th Junction,Dallas,Texas,75008,1979-12-24
+44,Marita,,Macallam,,584-539-0112,9274 Spohn Hill,Dallas,Texas,75041,504-702-5753,,,,,1981-06-05
+45,Donaugh,Sorcha,Grimsdike,,398-879-3327,34 Northfield Plaza,Dallas,Texas,75061,335-829-3422,,,,,1983-05-07
+46,Concordia,Ingamar,Michurin,438-558-8607,930-819-8669,825 Dixon Lane,Dallas,Texas,75030,310-276-0552,08 Everett Crossing,Plano,Texas,75005,1966-11-11
+47,Lydia,Elnar,Shermore,551-539-6647,146-300-8184,,,,,619-706-2111,394 Mayfield Drive,Plano,Texas,75002,1969-08-06
+48,Jandy,,Kerans,,637-650-0978,,,,75071,767-102-8784,,,,,1964-02-15
+49,Mirella,Truda,Cowwell,453-222-0717,,160 Grasskamp Park,Allen,Texas,75011,,7 Talisman Alley,Allen,Texas,75004,1965-03-09
+50,Missie,Daron,Binner,848-699-3800,488-851-7113,,,,,395-288-3413,3 Redwing Terrace,Dallas,Texas,75006,1991-09-13
+51,Ryley,Rog,Spilsted,,771-812-0449,3681 Schmedeman Park,Allen,Texas,75010,411-205-9343,33 Melby Park,Allen,Texas,75003,
+52,Sarina,,Alvarado,567-135-0102,258-263-5860,1330 Thackeray Junction,Plano,Texas,75002,709-745-0219,,,,,1977-02-17
+53,Johnnie,Wolfgang,Walbrun,462-845-3036,378-873-6862,70 Gina Point,Richardson,Texas,,575-701-3295,,,,,
+54,Geri,,Chaundy,,125-655-6551,0 Golf View Plaza,Dallas,Texas,75095,,,,,,1969-05-11
+55,Regan,,Holson,378-682-1902,320-344-7502,22839 Stuart Park,Richardson,Texas,75074,749-296-8636,9562 Northfield Park,Plano,Texas,75009,
+56,Callida,Wells,Knappen,765-701-9463,614-951-1081,92 Elmside Way,Plano,Texas,,920-329-4108,853 Mayfield Place,Allen,Texas,75005,1967-11-07
+57,Barnard,Dian,Wellbelove,324-319-1885,158-791-4110,589 Mccormick Parkway,Dallas,Texas,75067,,,,,,
+58,Lulu,Oliviero,Souness,,502-272-1989,56378 Talisman Drive,Allen,Texas,75032,755-534-1340,65588 Claremont Plaza,Plano,Texas,75001,1995-04-04
+59,Osmond,,Braniff,,743-364-4750,99570 Bayside Parkway,Allen,Texas,,775-391-2049,8 Kings Crossing,Allen,Texas,75004,
+60,Maximilien,,Martensen,,801-995-3628,99687 Jenna Circle,Richardson,Texas,75016,992-279-8238,,,,,1974-07-09
+61,Pietrek,Winston,Borgars,,978-461-6856,9028 Carberry Avenue,Addison,Texas,75011,685-481-0480,4 Saint Paul Junction,Dallas,Texas,75006,
+62,Vanya,,Capelen,,791-162-2031,55 Del Mar Hill,Allen,Texas,75017,,095 Hagan Center,Plano,Texas,75003,1964-03-21
+63,Christopher,,Scurrah,188-450-8080,968-277-3614,,,,75041,,,,,,1977-02-02
+64,Neilla,Kissiah,Nel,,798-873-9529,,,,,834-909-1478,00 Haas Road,Allen,Texas,75009,1985-02-07
+65,Evan,Sigismond,Critchlow,758-101-8619,288-674-1492,72772 Northfield Way,Dallas,Texas,75002,,928 Charing Cross Alley,Plano,Texas,75007,1978-03-14
+66,Lodovico,,Sheed,647-325-5036,334-497-2608,11 Donald Plaza,Allen,Texas,75048,712-204-2142,3682 American Road,Richardson,Texas,75003,
+67,Filip,,Sapseed,,,67412 Sundown Parkway,Addison,Texas,,569-828-2353,,,,,
+68,Isiahi,Lyman,Hudson,,203-431-4947,3 Moulton Junction,Addison,Texas,75049,365-927-9690,23469 Annamark Center,Richardson,Texas,75002,1981-03-23
+69,Floria,Lianne,Lankford,721-974-7317,307-758-9076,434 Farwell Plaza,Plano,Texas,75059,284-234-0042,,,,,1994-11-15
+70,Claudine,Marlyn,Lazell,359-310-9403,849-695-9335,08 Fremont Road,Allen,Texas,75048,,455 Westend Point,Dallas,Texas,75003,
+71,Marcella,,Hucknall,,748-818-7221,1251 Graceland Point,Dallas,Texas,75051,,,,,,1992-10-03
+72,Anastasie,Clo,Sellers,,697-516-7673,,,,75023,,,,,,
+73,Annelise,,Haug,,,86545 Tennyson Crossing,Richardson,Texas,75064,689-233-6416,9 Mandrake Place,Allen,Texas,75004,
+74,Elfreda,,Cleland,,359-128-8195,1430 Linden Way,Addison,Texas,75040,442-144-0201,4 Ilene Junction,Richardson,Texas,75009,
+75,Goldy,,Parradice,,853-669-6031,2268 Nancy Lane,Richardson,Texas,75081,,,,,,1970-08-13
+76,Abbye,Annmarie,Stiling,,182-313-3105,,,,75022,,316 Eagan Circle,Richardson,Texas,75007,
+77,Lavena,Petrina,Gostick,258-960-2550,645-688-9829,840 Kingsford Parkway,Richardson,Texas,75073,535-238-8834,,,,,1976-10-01
+78,Waneta,Karlene,Fernando,738-434-8751,952-872-9308,4 Sunbrook Avenue,Addison,Texas,75067,146-778-2020,,,,,1990-02-06
+79,Sharline,,Axworthy,,,8735 Bultman Circle,Dallas,Texas,75094,463-183-4657,,,,,
+80,Torre,Odilia,Nowakowska,,896-621-0151,65183 Delladonna Avenue,Allen,Texas,75079,741-274-5179,23 Debra Road,Plano,Texas,75003,
+81,Ermanno,Chris,Carillo,,301-947-1348,89640 Cody Terrace,Richardson,Texas,,928-679-8594,,,,,1990-09-06
+82,Alwyn,Malvin,Wragg,761-508-2579,442-776-7096,12 Butternut Terrace,Richardson,Texas,75006,,,,,,1985-03-14
+83,Rolland,,Prier,,131-277-8084,204 Farwell Avenue,Plano,Texas,75074,,,,,,1978-06-13
+84,Emmy,,Hamm,,112-337-2438,1 Anhalt Junction,Dallas,Texas,,812-390-3319,82238 Ludington Park,Addison,Texas,75003,1991-03-24
+85,Kristopher,,Gregorin,,467-112-0628,933 Debra Terrace,Allen,Texas,75021,185-191-2451,005 Derek Terrace,Richardson,Texas,75002,
+86,Wallis,,Cocks,,512-999-1443,4265 Mayer Junction,Plano,Texas,75053,996-985-1004,351 Shelley Court,Richardson,Texas,75001,
+87,Thornton,,Weich,,311-847-9441,46 Oakridge Avenue,Richardson,Texas,75059,972-245-7747,4 Golf Avenue,Plano,Texas,75007,1992-11-13
+88,Carmella,Maribeth,Brundell,760-702-3529,322-220-0314,71 Jay Terrace,Plano,Texas,75055,712-270-4972,,,,,
+89,Launce,Catarina,Matussov,454-192-9694,793-596-6729,598 Elmside Drive,Dallas,Texas,75067,,7807 Dakota Pass,Addison,Texas,75006,
+90,Derrik,Kelcey,Furniss,,920-954-7865,,,,75001,,,,,,1993-07-09
+91,Ariel,,Alessandrucci,,996-463-7162,421 8th Drive,Addison,Texas,75004,,55 Ridgeway Drive,Addison,Texas,75008,1969-03-05
+92,Merrick,,Coley,,685-563-0088,,,,75047,951-307-6360,2 Dennis Alley,Dallas,Texas,75002,
+93,Norah,Baxy,Dolman,800-490-0502,335-464-4346,27 Talmadge Park,Plano,Texas,75034,275-459-6375,,,,,
+94,Lib,Albrecht,Jaggers,,289-490-2307,801 Pleasure Trail,Addison,Texas,75057,845-667-9320,852 Burning Wood Pass,Addison,Texas,75005,
+95,Charlean,,Comiam,804-522-4722,438-145-4987,2449 Pepper Wood Court,Plano,Texas,75055,610-394-0372,,,,,1965-02-20
+96,Thorn,,Winkell,514-186-3739,299-709-3929,79761 Carioca Point,Allen,Texas,,,6678 Service Circle,Addison,Texas,75008,1977-08-30
+97,Lorenzo,Even,Klimke,,322-529-5730,,,,75093,374-927-8236,,,,,1992-06-21
+98,Deedee,Nevins,Redmille,,554-908-6180,,,,75033,497-161-2807,,,,,1993-03-25
+99,Olwen,Chrotoem,Maharg,,298-978-5587,27015 Nelson Parkway,Richardson,Texas,,,5445 Buhler Parkway,Allen,Texas,75003,1969-03-21
+100,Viviyan,,Luker,870-885-1418,518-928-2083,470 Derek Plaza,Richardson,Texas,75013,446-971-3511,,,,,
+101,Brigitte,Marieann,McLewd,,467-169-7052,622 Iowa Terrace,Allen,Texas,75086,560-427-8364,73814 Gerald Park,Plano,Texas,75002,1966-03-19
+102,Carmen,,Braidwood,,601-151-6193,,,,75097,,,,,,
+103,Jania,Kyrstin,Vondrys,369-238-2038,415-761-2375,8 Colorado Alley,Dallas,Texas,75094,644-697-0806,,,,,1969-05-23
+104,Ardyce,,Andino,,932-478-6742,4 Dwight Court,Richardson,Texas,75072,,,,,,
+105,Davis,Niccolo,Casolla,,612-751-9073,7 Sugar Parkway,Richardson,Texas,75014,903-723-8230,29479 Porter Point,Dallas,Texas,75005,1995-03-25
+106,Saloma,Margery,Geraudel,,738-834-4899,5221 Pearson Parkway,Addison,Texas,,575-831-8442,9528 Loftsgordon Junction,Allen,Texas,75003,
+107,Reese,Ilse,Wildblood,,518-553-9464,80 Welch Street,Allen,Texas,75061,171-586-9880,3105 Autumn Leaf Court,Plano,Texas,75001,1993-04-11
+108,Carola,Weidar,Sheard,166-513-3272,215-217-7070,3 Derek Alley,Richardson,Texas,,355-563-4878,3175 Green Ridge Court,Richardson,Texas,75008,1976-10-10
+109,Arda,Chadwick,Valdes,725-966-9431,817-774-4659,,,,75003,665-431-3941,876 Washington Terrace,Plano,Texas,75004,
+110,Caty,Pincas,Rikard,768-841-9661,985-795-6001,1409 Loftsgordon Alley,Plano,Texas,75003,135-820-4074,92 Mcbride Road,Plano,Texas,75005,
+111,Danica,Chloris,Trodler,,280-593-0508,3188 Fieldstone Circle,Plano,Texas,75072,384-566-9537,738 Commercial Road,Addison,Texas,75002,
+112,Rhetta,,Illingsworth,,634-832-4961,,,,,,,,,,
+113,Calvin,,Rubinowitsch,,671-420-1296,,,,,126-184-5686,,,,,1964-11-17
+114,Cordi,Bernardo,Woodwing,443-590-1681,743-968-9698,86 Welch Parkway,Allen,Texas,,319-215-9511,,,,,
+115,Alison,Margarita,Amor,,850-168-3428,210 Victoria Hill,Allen,Texas,,425-649-6990,1 Loomis Lane,Richardson,Texas,75002,1974-05-20
+116,Mattias,Shannan,March,,685-794-3792,,,,,,396 3rd Alley,Allen,Texas,75002,
+117,Josefina,,Bartram,728-382-1377,626-230-5244,19886 Pine View Terrace,Addison,Texas,75056,,,,,,
+118,Chickie,,Pinard,,189-946-4134,24 Welch Avenue,Plano,Texas,75031,,,,,,1978-07-10
+119,Rollin,Francklin,Abramof,862-580-2697,499-521-3027,0 Karstens Way,Allen,Texas,75088,456-574-3485,80574 Eliot Road,Plano,Texas,75001,
+120,Minnaminnie,,Russi,,525-786-1129,8101 Jenna Court,Dallas,Texas,75085,,5996 Fairview Trail,Richardson,Texas,75005,
+121,Jedidiah,,McGilvray,,162-591-7297,24 Doe Crossing Court,Dallas,Texas,75028,,,,,,
+122,Rachelle,Shaun,Cicconettii,222-357-9889,734-943-5823,79 Buena Vista Drive,Allen,Texas,,175-896-9475,,,,,1994-02-04
+123,Carlita,Gussi,Bindin,841-389-7758,927-269-5557,82883 Ohio Junction,Plano,Texas,,660-861-7324,07 Butternut Avenue,Allen,Texas,75005,1980-03-14
+124,Dre,Rea,Castleman,527-999-5145,560-540-7010,7595 Rusk Crossing,Dallas,Texas,75097,,,,,,
+125,Renell,Sheilah,Hinsche,971-724-5844,368-393-8119,4 Elmside Park,Addison,Texas,,885-614-2560,,,,,
+126,Cathyleen,Josias,Weldrake,720-767-5395,819-216-7409,67 Corscot Drive,Plano,Texas,75098,601-464-5787,702 Maple Wood Circle,Allen,Texas,75002,1979-12-08
+127,Shanon,,Isaaksohn,,510-507-2668,4 Heath Parkway,Addison,Texas,75005,,,,,,1978-09-27
+128,Caro,Herrick,Pulfer,204-136-9355,417-939-5637,202 Pankratz Terrace,Addison,Texas,75007,533-739-6596,7948 Sunbrook Crossing,Allen,Texas,75008,1979-12-25
+129,Emili,Lenora,Barkhouse,395-815-2605,689-724-6341,,,,75049,470-766-4449,,,,,1989-04-27
+130,Berty,,Jesse,,659-300-9914,1652 Rowland Plaza,Addison,Texas,75064,878-648-8002,,,,,1970-09-04
+131,Cesare,Kitti,Osgarby,950-735-9534,485-509-8914,84 Sommers Plaza,Addison,Texas,75004,320-144-5636,,,,,1969-12-28
+132,Sande,Asa,Bothe,,205-273-2823,97 Cardinal Road,Dallas,Texas,75027,440-549-6823,,,,,1984-08-06
+133,Gal,,Aslett,603-378-9604,739-726-5173,54 Lakewood Drive,Richardson,Texas,75063,959-118-6515,,,,,
+134,Mikael,Bridget,Doull,,561-758-3885,,,,,,7869 Onsgard Pass,Addison,Texas,75008,
+135,Erroll,,Wear,195-591-2761,780-319-6348,,,,,851-810-7191,,,,,1964-02-28
+136,Margarita,Gisela,Form,,665-863-3496,3 Gulseth Alley,Addison,Texas,75052,,977 2nd Road,Addison,Texas,75006,1987-08-30
+137,Rita,,Melross,,101-658-4163,,,,75044,802-173-4188,077 Ilene Terrace,Plano,Texas,75001,1968-09-01
+138,Cherrita,Lockwood,Mably,,965-369-3080,207 Fulton Avenue,Dallas,Texas,75094,311-559-9990,6 6th Pass,Richardson,Texas,75002,
+139,Ellyn,Karlene,Whitwham,657-665-0989,630-176-1993,28 Hollow Ridge Lane,Plano,Texas,75068,596-335-4027,,,,,1991-12-17
+140,Rudolfo,,Avraham,594-100-8807,126-191-0637,37 Hauk Avenue,Dallas,Texas,75098,998-102-4319,,,,,1972-03-15
+141,Lark,Jonah,Hemms,936-470-8740,399-410-3150,137 Moose Circle,Plano,Texas,75026,,83 Namekagon Lane,Dallas,Texas,75001,1976-06-03
+142,Keen,Henka,Measor,224-628-0332,400-632-7435,63832 Shasta Crossing,Plano,Texas,75044,523-284-1173,49298 Pierstorff Center,Richardson,Texas,75009,1982-02-13
+143,Rosaline,Donalt,Worms,,402-749-4109,,,,,682-788-0921,255 Lukken Court,Richardson,Texas,75001,1993-05-27
+144,Jacquelin,Hamel,O'Leagham,,623-440-3069,38977 Karstens Lane,Allen,Texas,,,62089 Transport Plaza,Plano,Texas,75001,
+145,Gabey,,Aggott,,680-996-8963,6 Browning Point,Plano,Texas,75097,940-916-1708,5874 Granby Alley,Allen,Texas,75008,1964-12-02
+146,Stacee,,Braunlein,596-594-6343,741-405-2893,3785 Heath Pass,Dallas,Texas,75005,599-479-7143,,,,,
+147,Garland,Aurelie,Gaunter,,189-144-5588,8406 Golf Course Trail,Allen,Texas,75033,194-514-6250,563 Kedzie Court,Addison,Texas,75004,1982-09-18
+148,Joaquin,,Birkwood,974-202-6083,907-464-2719,2 Truax Trail,Addison,Texas,75071,605-462-1975,,,,,
+149,Barbabra,Alexandre,Dinnage,620-317-5161,889-791-3642,,,,,800-218-9724,,,,,
+150,Kenon,,Cremer,361-857-2319,874-633-0543,7 Scott Place,Plano,Texas,,,0 Blue Bill Park Pass,Allen,Texas,75001,1977-02-10
+151,Rabi,Davon,Apted,474-264-4928,277-234-5144,,,,75012,130-575-1451,,,,,1978-04-24
+152,Kerry,Redd,De Atta,821-859-4219,769-583-9706,299 Golf View Way,Allen,Texas,75085,780-729-0513,,,,,
+153,Barry,Cathy,Caves,319-230-9127,338-545-2457,003 Morrow Crossing,Allen,Texas,75049,270-936-1024,,,,,1985-04-06
+154,Kenneth,Wald,Jeffreys,,963-970-8330,,,,,212-357-5802,,,,,
+155,Darbie,Roobbie,Lafontaine,,259-209-3551,679 Pankratz Lane,Addison,Texas,75052,363-591-9833,,,,,
+156,Corena,,O'Shevlin,539-870-5632,160-914-8157,272 Farmco Lane,Addison,Texas,75003,308-853-5308,67 Evergreen Way,Richardson,Texas,75004,1992-05-02
+157,Arny,,Shrubshall,910-727-3016,588-860-2305,3229 Huxley Hill,Richardson,Texas,75091,505-531-2951,,,,,
+158,Warren,,Stanlike,600-258-1532,609-339-6336,,,,,583-506-0181,7390 Brickson Park Junction,Dallas,Texas,75002,1974-11-08
+159,Krystalle,Georgia,Archer,,219-803-4889,168 Eagan Road,Allen,Texas,75018,,,,,,1987-04-15
+160,Pooh,Emili,Alflatt,963-529-5711,668-695-7537,3037 Center Crossing,Plano,Texas,75043,272-475-7047,555 Macpherson Point,Allen,Texas,75009,
+161,Denney,Trey,McCurtain,994-199-8435,788-965-0073,7 Vermont Terrace,Allen,Texas,,,2 Prentice Park,Addison,Texas,75004,1972-09-24
+162,Barth,Val,Harwell,,322-212-6474,90 Elmside Hill,Richardson,Texas,75010,871-525-5326,50 John Wall Street,Allen,Texas,75006,
+163,Mord,Anette,Leynagh,,681-758-5432,,,,75056,906-287-3813,,,,,
+164,Osmund,Mallory,Arndell,702-101-1841,737-458-3193,9547 Michigan Lane,Addison,Texas,75054,519-539-6640,435 Dwight Pass,Plano,Texas,75006,1980-01-08
+165,Honoria,Christal,Nix,505-562-5213,605-413-5142,38 Mallard Place,Richardson,Texas,75038,,00464 Kenwood Circle,Richardson,Texas,75003,
+166,Paulita,,Chessel,,913-227-5857,2873 Rusk Crossing,Allen,Texas,75040,299-392-3863,,,,,1971-05-10
+167,Celeste,Morly,Pittendreigh,,207-356-3286,9976 Mccormick Terrace,Allen,Texas,,774-467-6424,4368 Montana Parkway,Richardson,Texas,75006,
+168,Nickola,Pedro,Barwood,,726-561-0259,66 Hallows Trail,Allen,Texas,,138-193-3944,,,,,1964-08-23
+169,Harmonie,Sandy,Benny,,729-528-9115,,,,,922-656-3574,25 Scofield Pass,Allen,Texas,75008,1992-09-29
+170,Glennis,,Dawby,,809-251-6239,,,,75055,179-846-7624,,,,,
+171,Casey,Claiborne,Temby,,350-841-0515,13 Cascade Crossing,Plano,Texas,,316-810-2478,,,,,1969-09-25
+172,Pamelina,Benoite,Moody,347-874-4660,991-300-9095,48833 Atwood Alley,Addison,Texas,75001,429-564-2215,8 Jenifer Terrace,Richardson,Texas,75008,1984-09-22
+173,Rozamond,,Tixier,,945-688-3394,21 Canary Park,Plano,Texas,75018,,06606 Cordelia Way,Plano,Texas,75007,
+174,Zorine,Josie,Case,793-559-9408,575-837-2710,,,,75069,,,,,,
+175,Rici,,Thomann,120-469-6580,836-247-5742,6235 Longview Pass,Plano,Texas,,,32 Farragut Drive,Dallas,Texas,75009,1970-01-13
+176,Pascale,Allyson,Delves,,260-445-9289,,,,75025,703-259-6055,73397 Blaine Trail,Dallas,Texas,75002,1981-06-27
+177,Udall,Belvia,Snoxell,450-962-3731,991-681-1755,,,,75082,238-854-7937,,,,,
+178,Carolann,Francisco,Holbie,918-917-1949,530-615-9871,7224 Daystar Pass,Allen,Texas,,,,,,,
+179,Karmen,Wilmer,Carmel,118-992-2961,928-280-1718,35825 Maple Alley,Richardson,Texas,75001,503-731-6441,2930 Reindahl Pass,Dallas,Texas,75003,
+180,Cori,,Basillon,,739-370-4832,2 Sunfield Street,Plano,Texas,75064,,5 Pond Place,Addison,Texas,75008,
+181,Cyril,,Adran,264-266-4036,288-380-7105,9 Vahlen Drive,Richardson,Texas,75081,677-801-8753,5540 Luster Center,Allen,Texas,75004,1995-12-28
+182,Bryana,Neely,Toghill,,882-224-4712,2031 School Trail,Addison,Texas,,508-481-0030,,,,,1964-06-29
+183,Baron,Annabell,A'field,448-875-4499,141-927-3011,25234 Transport Drive,Plano,Texas,,580-158-6597,95 Barnett Terrace,Dallas,Texas,75009,1966-04-08
+184,Lefty,,Windybank,,206-601-7607,2 Nova Point,Addison,Texas,75095,292-116-1054,719 Kensington Park,Allen,Texas,75009,
+185,Sophey,,Weildish,409-492-7295,,1 Kropf Circle,Addison,Texas,,475-504-7773,1202 Autumn Leaf Street,Addison,Texas,75007,
+186,Loleta,Wade,Thombleson,,733-271-6746,68 Cherokee Way,Addison,Texas,75061,201-156-7465,,,,,
+187,Petr,,Lardier,,294-234-8775,1 Kenwood Road,Richardson,Texas,75064,161-517-0954,,,,,
+188,Boigie,,Dabs,156-986-1385,658-428-6437,281 Waxwing Point,Richardson,Texas,75080,364-650-8064,4440 Spenser Pass,Allen,Texas,75002,1988-06-26
+189,Retha,Cindelyn,Twiddell,,666-116-3670,,,,75091,732-664-1953,,,,,1977-05-10
+190,Deva,,Dermott,846-697-1049,710-160-0835,1 Jay Parkway,Plano,Texas,,669-622-5273,,,,,
+191,Donavon,,Franses,616-408-2685,155-927-4964,4 Kinsman Junction,Plano,Texas,75013,,,,,,
+192,Francesco,Yasmeen,Bellini,593-872-0141,467-144-6719,3 Karstens Park,Dallas,Texas,75058,162-660-8196,0 Porter Place,Dallas,Texas,75001,
+193,Tyler,,Luckcock,719-433-1940,307-434-2713,3396 Claremont Trail,Allen,Texas,75018,,,,,,
+194,Noni,Sergent,Ashleigh,,119-187-2885,04546 Tennyson Alley,Plano,Texas,75027,927-824-8433,,,,,
+195,Emmaline,,De Miranda,435-497-6117,739-246-0573,4 Bunting Plaza,Addison,Texas,75085,935-971-9145,,,,,
+196,Flossie,Ruthe,Hammerberg,638-228-7039,421-829-5450,7069 Victoria Court,Allen,Texas,,306-748-2425,386 Cordelia Crossing,Richardson,Texas,75009,1965-07-09
+197,Alexander,,Witty,,334-595-0964,3774 Shoshone Hill,Addison,Texas,75062,784-524-1493,,,,,
+198,Jourdan,,Straneo,541-972-9215,542-380-6173,,,,75098,528-555-9675,46162 Fuller Drive,Dallas,Texas,75005,1993-12-20
+199,Buck,,Casterou,928-585-8252,860-312-4413,48 Tony Parkway,Plano,Texas,75083,,12259 Ruskin Crossing,Addison,Texas,75008,
+200,Dulcinea,Brandice,Chazerand,384-681-2575,975-952-1919,8 Twin Pines Lane,Richardson,Texas,75032,,,,,,
+201,Marys,Emmi,Dellenbrok,915-909-0320,890-454-6783,90 Lakeland Pass,Richardson,Texas,,221-904-6120,7321 Declaration Alley,Addison,Texas,75006,1996-01-03
+202,Tobit,Gilbertine,Deighan,660-223-6277,676-107-4163,091 Old Shore Plaza,Richardson,Texas,75014,,,,,,1967-11-12
+203,Dianne,Arny,Kedge,628-961-4631,589-241-6333,8 Sheridan Point,Allen,Texas,,418-875-6867,,,,,1973-10-08
+204,Aubrie,,Boddam,547-604-7582,455-443-4902,,,,75019,713-480-9106,50544 Sutherland Drive,Addison,Texas,75008,1975-06-05
+205,Gertrudis,Simonne,Streeton,422-166-8360,877-939-3738,41 Lakewood Terrace,Allen,Texas,,746-410-5130,,,,,1974-06-13
+206,Verine,Mona,McLucas,854-288-5241,753-171-5682,,,,75004,244-357-2839,74 Thackeray Road,Dallas,Texas,75008,
+207,Gerick,,Learoyd,,356-576-5645,6247 Macpherson Way,Addison,Texas,75061,,4155 Holmberg Avenue,Plano,Texas,75003,1973-05-06
+208,Mozelle,,Toplis,521-390-3859,786-731-7679,3 Buell Avenue,Addison,Texas,,677-609-3277,,,,,1981-02-08
+209,Luce,Egan,Kiss,217-357-8603,513-711-1607,054 Mccormick Court,Richardson,Texas,75045,,,,,,1975-07-19
+210,Giselbert,Martynne,McKeighan,305-505-9304,657-297-0002,83 Esch Road,Plano,Texas,75048,550-570-7649,26 Cardinal Point,Dallas,Texas,75007,
+211,Ajay,Fannie,Meah,131-554-7673,842-685-8134,85937 Burrows Pass,Addison,Texas,,,,,,,1972-10-05
+212,Jammie,,Lavington,,572-785-8740,0 Stuart Road,Dallas,Texas,,577-386-0520,59544 Tomscot Pass,Dallas,Texas,75006,1969-09-19
+213,Aluin,Maddy,Bohlmann,771-537-3767,789-670-9179,,,,75087,137-998-6889,66 Valley Edge Terrace,Richardson,Texas,75001,1977-04-16
+214,Shari,,Blanque,,954-560-0159,,,,75026,,,,,,1981-01-02
+215,Clementius,Alfy,Lewinton,,111-927-8581,,,,75015,585-884-7792,,,,,
+216,Markus,,Cogzell,828-378-2541,,430 Hudson Hill,Allen,Texas,75077,770-578-3527,858 Red Cloud Trail,Dallas,Texas,75002,
+217,Melessa,Ellerey,Kliement,,237-677-8793,,,,75060,724-777-7402,019 Utah Circle,Addison,Texas,75004,
+218,Manon,Rudy,Barthrup,,943-829-3863,5303 Stoughton Circle,Allen,Texas,75012,,14 Talisman Street,Allen,Texas,75009,1990-11-30
+219,Amalle,,Brandsma,570-326-2552,346-897-2782,2250 Bunting Point,Addison,Texas,75061,,,,,,1982-03-16
+220,Marjory,Libbie,Nutton,193-474-2547,807-509-2962,86414 Gateway Alley,Plano,Texas,75082,391-234-9494,,,,,1971-05-25
+221,Ivory,,Brodeur,,537-449-9605,7 Hagan Parkway,Richardson,Texas,,,,,,,
+222,Fey,Adan,Armfirld,,815-680-8501,27 Hovde Place,Addison,Texas,,297-662-7654,4 Roth Road,Allen,Texas,75009,
+223,Chaim,Inglis,Allot,,885-336-0223,88997 Summit Plaza,Addison,Texas,,861-527-6830,75 Evergreen Road,Addison,Texas,75005,1977-10-26
+224,Gabriell,,Quinton,,279-915-7881,,,,75052,855-460-1939,,,,,1971-09-11
+225,Pauline,,Penright,919-608-1138,874-561-1064,51 Dexter Drive,Dallas,Texas,75032,,,,,,1984-12-03
+226,Mohandas,Di,Burnip,801-150-6562,678-756-8685,,,,75045,702-920-2292,,,,,
+227,Antonia,,Fligg,,630-405-4842,812 Hermina Road,Richardson,Texas,75046,,644 Towne Junction,Dallas,Texas,75004,1965-10-29
+228,Natka,,Rusted,,333-696-7735,267 Russell Park,Addison,Texas,,894-507-0455,,,,,
+229,Willis,Cynthea,Arnecke,653-718-0691,707-137-5452,50 Gale Pass,Plano,Texas,,,3387 Old Shore Pass,Richardson,Texas,75005,
+230,Arvie,Carly,Collinson,954-591-2566,996-239-6282,44995 Johnson Court,Allen,Texas,75003,640-427-7474,,,,,1977-06-24
+231,Lucinda,Chelsey,Vivash,,885-591-7975,3 Village Green Parkway,Addison,Texas,75023,939-857-8068,,,,,1979-08-17
+232,Alica,,McCumskay,209-856-5568,419-189-5639,,,,75097,517-733-5398,,,,,1984-12-28
+233,Duff,Belle,Jimmes,498-916-0531,970-819-3933,0 Rockefeller Hill,Dallas,Texas,,957-469-7349,049 Lerdahl Avenue,Plano,Texas,75002,1970-12-06
+234,Von,Yule,Cornell,952-702-7639,122-939-1039,,,,75070,737-734-5439,,,,,1985-01-19
+235,Thaxter,Husein,Beaze,873-763-9477,381-747-2286,6 Valley Edge Hill,Addison,Texas,75025,785-818-6829,,,,,1981-03-25
+236,Danny,Kellby,Hawarden,,584-484-5052,390 Kenwood Hill,Richardson,Texas,75023,691-960-7950,,,,,1985-06-10
+237,Wyatan,Brandon,Benettolo,,692-668-4655,,,,,141-363-0839,,,,,1993-01-27
+238,Baxter,,Grierson,,530-939-4107,13429 Northport Circle,Richardson,Texas,75051,615-408-7705,,,,,
+239,Hort,Clarinda,Grigorushkin,360-261-3677,159-352-8021,90 Canary Crossing,Richardson,Texas,,,49001 Superior Place,Addison,Texas,75004,1969-03-03
+240,Nessi,,Steedman,,131-454-9471,3595 Huxley Way,Addison,Texas,75052,,,,,,1992-04-01
+241,Anestassia,Glennie,Calcraft,,883-698-2435,67573 Judy Junction,Allen,Texas,,943-658-5773,2975 Clemons Junction,Allen,Texas,75002,
+242,Caril,,Currier,216-219-8508,223-145-1656,50 Sycamore Plaza,Addison,Texas,75030,,40898 Sunbrook Junction,Plano,Texas,75009,1987-10-26
+243,Giorgia,Lanae,Van Dalen,,999-916-5458,762 Roxbury Alley,Allen,Texas,75046,,58664 Florence Center,Addison,Texas,75003,
+244,Blythe,,Gerhardt,,226-203-9541,33 Hintze Center,Richardson,Texas,75089,692-610-7221,8 Little Fleur Road,Richardson,Texas,75006,
+245,Gillan,Dannie,Bertlin,643-581-4018,728-170-8971,16 Knutson Pass,Allen,Texas,,177-712-1163,,,,,1990-03-25
+246,Tracey,Arlen,Champneys,898-311-4913,510-441-3400,,,,75026,515-598-3351,,,,,
+247,Turner,Harri,Impleton,,704-231-1831,,,,,909-657-7010,48607 Pankratz Crossing,Dallas,Texas,75008,
+248,Harriett,Junina,Deinert,352-617-0424,927-393-3874,5357 7th Road,Addison,Texas,,621-282-4315,960 Sunnyside Hill,Dallas,Texas,75009,1966-01-13
+249,Charmian,Damon,Creigan,738-575-1532,911-980-1743,,,,75040,565-530-1901,71 Gerald Road,Dallas,Texas,75007,
+250,Dav,Sibilla,Machel,,777-692-0874,5 Jana Alley,Richardson,Texas,75063,,,,,,1970-03-02
+251,Hogan,Jilly,Wandtke,,652-464-2372,57366 Hayes Pass,Addison,Texas,75065,221-153-7818,9 Declaration Street,Richardson,Texas,75005,1984-10-10
+252,Leanna,,Meates,216-128-4604,315-345-3420,07 Kenwood Plaza,Allen,Texas,75014,567-242-8553,12969 Lighthouse Bay Lane,Addison,Texas,75005,1977-09-23
+253,Barnabas,,Lowde,393-933-6921,358-481-9889,830 Mccormick Drive,Plano,Texas,75012,,0615 Hooker Way,Richardson,Texas,75002,1989-03-26
+254,Daven,Harman,O'Hengerty,619-985-1726,842-207-9733,440 Harper Parkway,Addison,Texas,75095,226-990-8334,8412 Anhalt Road,Richardson,Texas,75001,
+255,Sabina,Forbes,Nix,,864-714-1199,6821 8th Pass,Dallas,Texas,,963-618-3936,00752 Carey Avenue,Addison,Texas,75006,1971-07-17
+256,Joscelin,Chloe,Cranstoun,563-898-4407,162-326-8857,8067 Bayside Parkway,Plano,Texas,,,7529 Upham Drive,Allen,Texas,75009,
+257,Caryl,Bartie,Culp,,476-246-1194,42330 Hooker Parkway,Allen,Texas,75073,560-533-3577,,,,,
+258,Ive,Anthe,Rozier,593-520-4976,,,,,,,1 Paget Trail,Addison,Texas,75001,
+259,Sibbie,,Brolechan,,741-804-6153,27 Lotheville Road,Dallas,Texas,,,,,,,1991-04-06
+260,Elwin,,Kendal,798-645-1435,283-519-9469,81 Talisman Point,Allen,Texas,75010,678-278-9610,,,,,1969-10-17
+261,Quintin,,Broddle,,945-878-4565,0 Oakridge Center,Plano,Texas,,,,,,,1986-12-04
+262,Alfie,,Elgee,212-363-6520,246-174-7624,9113 Dakota Crossing,Richardson,Texas,75083,159-680-7922,21 Summit Terrace,Addison,Texas,75005,
+263,Christa,Amelina,Gremain,,790-858-7895,94 Forest Park,Dallas,Texas,,665-471-8093,6 Fremont Park,Allen,Texas,75009,
+264,Ronnica,,Heads,135-793-7070,538-789-7767,,,,75038,615-291-2936,1 Prentice Terrace,Addison,Texas,75008,
+265,Sammy,Grissel,Roxburch,,,4553 Moulton Center,Richardson,Texas,,,93 Waywood Way,Richardson,Texas,75009,1976-09-28
+266,Giselle,,Troke,607-945-9621,245-116-9013,87 Warrior Center,Allen,Texas,,133-947-4353,1 Drewry Alley,Allen,Texas,75006,1982-12-31
+267,Cory,,Lapere,439-612-2673,337-365-4743,,,,75019,,61216 Tony Lane,Allen,Texas,75002,1992-06-14
+268,Karrie,,Giacobelli,,772-450-3153,,,,75081,,,,,,1993-11-25
+269,Ondrea,Burnaby,Emma,226-768-0943,682-336-4639,1222 Pond Drive,Richardson,Texas,75006,454-488-2348,,,,,1991-03-06
+270,Merilee,,Gumme,731-819-7090,586-386-6331,,,,75084,671-260-1052,,,,,1986-05-21
+271,Niels,Rozella,Rawstron,260-252-9568,321-560-5572,31 Summer Ridge Street,Dallas,Texas,,995-718-1899,01 Delaware Parkway,Addison,Texas,75001,1964-02-14
+272,Helene,Alta,Sarrell,,764-228-2895,5 Hanover Crossing,Dallas,Texas,75066,330-792-9306,1139 Saint Paul Way,Addison,Texas,75008,1984-08-24
+273,Cherilyn,Bartlet,Bernet,768-515-3346,547-651-5152,9 Melrose Street,Plano,Texas,75008,,51 Swallow Circle,Addison,Texas,75002,1963-10-31
+274,Maryanna,,Braunfeld,,111-793-8014,,,,,822-404-6599,,,,,1969-02-13
+275,Read,,Gent,,895-547-1737,8359 Columbus Circle,Plano,Texas,75092,,5212 Brown Way,Plano,Texas,75005,
+276,Dewain,,Barkhouse,,184-223-7933,72920 Ruskin Trail,Dallas,Texas,75029,304-553-1314,85 Portage Point,Dallas,Texas,75009,1966-06-22
+277,Ebba,Jobie,Hawken,,760-300-2633,40 Garrison Circle,Allen,Texas,75015,849-878-1350,,,,,
+278,Frannie,,Boothebie,102-472-6185,901-126-9300,1 Spohn Lane,Plano,Texas,75028,651-954-5706,,,,,1974-07-30
+279,Tate,Audrey,Liggett,,652-311-2308,37 Rusk Place,Addison,Texas,75071,975-186-3275,3 Melvin Parkway,Allen,Texas,75006,
+280,Alikee,,Mawby,902-975-0670,365-532-8461,,,,75015,259-837-7467,,,,,
+281,Hildegarde,Celestia,Taffurelli,144-795-1499,519-708-3846,2 Hanson Point,Addison,Texas,75083,955-254-6266,,,,,
+282,Madelena,,Regis,443-211-9294,106-456-2187,96 Acker Way,Allen,Texas,,510-881-2776,254 Judy Parkway,Richardson,Texas,75005,1979-10-08
+283,Nil,Portie,Tanswill,,752-383-6580,328 Farragut Circle,Richardson,Texas,75031,,,,,,1974-02-15
+284,Delbert,,Chaplyn,255-751-4399,,2194 Messerschmidt Lane,Richardson,Texas,75001,303-687-2112,,,,,1992-01-25
+285,Sidonia,,Alderson,873-123-1637,773-473-4110,1 Monterey Point,Dallas,Texas,75055,119-142-4923,,,,,
+286,Kyrstin,Hollyanne,Tumpane,,538-587-2812,5547 Mallard Park,Allen,Texas,75027,361-841-9483,59935 High Crossing Park,Richardson,Texas,75003,1970-12-08
+287,Nev,Row,Hotton,,700-525-5413,3 Menomonie Court,Plano,Texas,75050,445-463-2036,,,,,1965-07-02
+288,Appolonia,Estevan,Fannon,,260-897-3964,82 Duke Street,Allen,Texas,75090,940-283-2494,11982 Fordem Alley,Allen,Texas,75009,
+289,Riki,,Hearnes,524-230-9991,433-532-3375,,,,75090,,,,,,1968-11-06
+290,Brantley,,Fowlds,150-580-3358,901-256-3152,,,,75003,609-397-8181,318 Grover Hill,Dallas,Texas,75005,
+291,Thorndike,,Daenen,614-466-2418,138-663-4933,,,,,,91 Barnett Drive,Richardson,Texas,75008,1971-04-27
+292,Susanetta,,Janny,,,808 Merry Avenue,Dallas,Texas,75047,,323 Westridge Alley,Richardson,Texas,75002,1991-09-11
+293,Madelena,,Stannett,,739-816-0099,36365 Esch Road,Dallas,Texas,,,,,,,1982-12-11
+294,Pavia,,Cantor,722-851-7661,953-634-4168,75 Red Cloud Trail,Richardson,Texas,,415-391-8624,,,,,
+295,Valaria,,Pfeffel,,921-335-4238,1174 Sullivan Avenue,Allen,Texas,75040,620-846-8310,,,,,1975-10-13
+296,Verile,,Pervoe,,582-587-1230,1 Grasskamp Park,Dallas,Texas,,246-751-8770,4137 Almo Street,Richardson,Texas,75004,1996-01-02
+297,Merrel,,Borell,,,,,,75070,131-274-4339,,,,,
+298,Clayborn,Lillis,Taylorson,,732-280-5706,2317 Annamark Alley,Dallas,Texas,,768-943-3582,,,,,1980-11-06
+299,Hugh,Chryste,Nafzger,,653-199-8225,37 Sachtjen Center,Plano,Texas,75021,396-378-9449,,,,,1974-06-29
+300,Bartlett,,Edmead,,846-766-7200,58 Redwing Court,Plano,Texas,75097,685-780-7436,8357 Lakewood Point,Plano,Texas,75002,
+301,Karin,Juana,Szymanowicz,,896-317-8751,632 Graedel Place,Addison,Texas,,109-441-2458,,,,,1987-11-22
+302,Marshall,,Capehorn,,154-328-0392,37 Mayer Way,Plano,Texas,,913-906-8441,,,,,1964-01-08
+303,Mose,,Derrick,590-859-9229,119-729-4765,563 Mockingbird Point,Richardson,Texas,75035,,,,,,
+304,Phillipe,,Wrinch,708-700-4378,840-147-0576,03 Tomscot Circle,Plano,Texas,75030,170-443-0516,5917 Upham Point,Addison,Texas,75005,1970-12-13
+305,Annabelle,Aldridge,Romer,484-275-6972,113-241-1349,,,,,897-924-9172,,,,,
+306,Obie,Moe,Deverall,,178-700-0270,,,,75074,962-769-8706,,,,,1981-09-20
+307,Therese,,Nockolds,,375-407-0598,26 Erie Hill,Richardson,Texas,75075,158-140-9215,,,,,
+308,Maureene,Margret,Sute,416-967-8297,573-758-2931,,,,,,626 Lakewood Gardens Circle,Plano,Texas,75005,1983-08-11
+309,Wolfie,,Trice,,788-262-8232,5 Nobel Avenue,Addison,Texas,,230-417-5878,0 Del Sol Avenue,Addison,Texas,75003,1991-02-15
+310,Amandi,Talbert,Scollard,120-867-6346,525-859-0181,9940 Dunning Parkway,Addison,Texas,,607-115-0976,39649 Esker Center,Dallas,Texas,75005,1983-05-02
+311,Erma,,Pryell,917-730-3401,104-832-7245,5598 Waxwing Crossing,Richardson,Texas,75029,,,,,,1979-10-24
+312,Jerrilee,,Ramelet,402-771-7293,699-189-6305,3 Bayside Way,Richardson,Texas,75010,,,,,,
+313,Wileen,Gualterio,Patrono,,417-811-4669,271 Bowman Way,Plano,Texas,75027,,7726 Anderson Park,Plano,Texas,75002,1970-01-21
+314,Alejandro,Betta,Baylie,132-352-4939,841-660-4138,2953 Scoville Drive,Addison,Texas,,979-941-2868,59368 Briar Crest Crossing,Allen,Texas,75007,1994-08-06
+315,Kass,Jillayne,Hull,,246-314-6200,35 Caliangt Terrace,Addison,Texas,75082,,8191 Holmberg Avenue,Allen,Texas,75002,1982-04-25
+316,Starr,,Sappy,998-366-3986,765-819-3904,83 Nova Park,Plano,Texas,,,,,,,1966-10-03
+317,Gabriel,Vernon,Ivasechko,,474-102-5611,597 Schmedeman Point,Dallas,Texas,,398-737-4833,,,,,1965-06-14
+318,Brent,,Bransdon,,814-327-8268,8232 Chive Point,Plano,Texas,75042,443-334-6477,,,,,
+319,Kathryne,,Ravilious,795-348-8410,271-620-3459,8 Packers Lane,Plano,Texas,,,,,,,
+320,Dorise,,Willbourne,517-484-8461,450-835-5005,07066 Monica Center,Richardson,Texas,,390-842-6160,38748 Merry Lane,Plano,Texas,75009,
+321,Dodie,,Tripon,,760-889-6313,,,,75046,958-520-7861,,,,,1991-08-11
+322,Lauritz,Hilary,Burnyate,106-320-8656,778-705-5374,,,,,,,,,,
+323,Alleyn,,Nowakowska,175-139-8966,958-856-0549,318 Moose Trail,Richardson,Texas,75076,,449 Stang Court,Richardson,Texas,75001,1964-01-10
+324,Vernon,,Shurmore,114-109-2699,160-418-9351,38654 Novick Point,Plano,Texas,,,3 Harbort Pass,Dallas,Texas,75006,1966-02-19
+325,Milka,Laetitia,Phlippsen,416-527-9411,733-536-4162,,,,75025,474-345-8269,9 Hansons Terrace,Addison,Texas,75007,1977-12-02
+326,Dulci,Olympia,Mellmer,,472-676-4057,45 Miller Trail,Plano,Texas,75042,636-215-2441,,,,,
+327,Nicolea,Karrah,Honisch,701-951-6627,409-417-0486,8 Forest Dale Way,Plano,Texas,75051,,409 Mayfield Trail,Allen,Texas,75001,
+328,Melony,Evita,Stych,113-833-7850,307-710-4260,087 Duke Pass,Dallas,Texas,75005,218-566-8321,,,,,1991-06-10
+329,Leonhard,,Whitter,,764-688-7211,811 Petterle Park,Addison,Texas,,,5 Golf Avenue,Dallas,Texas,75003,1967-11-04
+330,Rafaelia,Nathan,Mapes,115-407-9844,848-331-1605,2737 School Avenue,Richardson,Texas,75061,780-766-5194,,,,,1978-12-26
+331,Krishna,Nancey,Chable,,149-358-4766,1 Chive Junction,Dallas,Texas,75063,,8 Mockingbird Place,Addison,Texas,75004,1991-08-22
+332,Cristina,Clary,Clayborn,225-868-9797,246-709-2158,2 Randy Way,Addison,Texas,75076,,,,,,1996-04-01
+333,Alister,Chelsie,Woodsford,,771-692-8893,318 Canary Place,Richardson,Texas,75016,317-903-7792,5289 Jay Park,Plano,Texas,75005,
+334,Melisandra,Carce,Josefowicz,186-407-9924,132-906-7999,474 Weeping Birch Park,Dallas,Texas,75048,685-967-8364,,,,,1994-11-02
+335,Ferguson,Prinz,Peirpoint,,885-579-2681,5762 Toban Alley,Addison,Texas,75048,,,,,,
+336,Ryun,Mitchel,Reightley,337-994-7403,161-223-5730,944 Porter Crossing,Addison,Texas,75041,970-988-0877,,,,,1971-04-08
+337,Ken,,Iacopetti,740-161-2202,599-700-6909,2960 Myrtle Drive,Plano,Texas,75008,427-539-2916,65279 Dakota Avenue,Richardson,Texas,75009,1986-10-25
+338,Rosemary,Jermain,Pynn,,,1 Sachs Way,Addison,Texas,,201-398-4375,,,,,1974-02-02
+339,Lisetta,Wren,Harlin,142-284-8389,635-593-9994,53 Hermina Plaza,Richardson,Texas,75015,,,,,,1978-05-01
+340,Melanie,Stacy,Ashforth,,954-704-6957,01 Fieldstone Terrace,Addison,Texas,75021,,8504 Sunfield Hill,Richardson,Texas,75004,1975-03-26
+341,Devy,Fidelio,Janczewski,448-993-3474,538-136-8119,19 Forest Dale Pass,Plano,Texas,,325-943-8882,9 Truax Court,Plano,Texas,75006,
+342,Gannie,Samuele,Josephsen,857-707-7664,933-245-1342,9 Schlimgen Trail,Allen,Texas,,,795 Merchant Center,Addison,Texas,75008,
+343,Drucill,,Barbour,,318-945-1954,79 Onsgard Drive,Plano,Texas,,,,,,,1971-11-26
+344,Julietta,Yetty,O'Hollegan,883-242-4398,742-597-4893,4899 Fremont Way,Addison,Texas,,681-400-2720,,,,,1977-08-24
+345,Vyky,,MacRedmond,919-323-1257,928-252-8876,8733 Aberg Crossing,Addison,Texas,75054,370-202-5960,29889 Bunting Trail,Richardson,Texas,75009,
+346,Fergus,,Shergold,538-735-6171,384-325-2018,0 Green Drive,Dallas,Texas,,,8 Homewood Hill,Allen,Texas,75009,
+347,Dareen,,Hansill,647-127-4086,289-546-6050,52 Morningstar Road,Plano,Texas,75043,,,,,,1969-11-21
+348,Cointon,,Claiden,346-244-6524,669-658-9712,0 Brickson Park Place,Plano,Texas,75009,,1678 Kings Court,Dallas,Texas,75007,
+349,Quillan,,Hixley,934-421-9357,716-616-9811,5930 Clarendon Point,Allen,Texas,,945-956-2686,7906 Dovetail Hill,Richardson,Texas,75005,1978-11-30
+350,Zeb,,Stirling,405-347-9722,226-607-7620,3852 Fallview Pass,Richardson,Texas,75034,790-506-3204,,,,,1994-07-14
+351,Phil,Vincent,Wroughton,,568-437-8548,,,,75003,887-802-1736,595 Mesta Center,Richardson,Texas,75004,
+352,Maria,,Cuerdale,,471-483-0862,4 Independence Hill,Plano,Texas,75048,338-506-2497,558 Annamark Parkway,Addison,Texas,75008,
+353,Sarah,Stacey,Dillamore,,162-579-5330,9 Lighthouse Bay Court,Allen,Texas,75031,,,,,,
+354,Bondie,Daisie,James,,733-556-6269,1 Namekagon Hill,Allen,Texas,,184-568-3761,,,,,
+355,Bunnie,Elmo,Gettins,,833-658-0432,,,,75076,,93 Ruskin Hill,Richardson,Texas,75002,1988-04-09
+356,Julina,Melesa,Streetley,,470-788-5580,4 Havey Hill,Allen,Texas,75085,,9359 Independence Road,Addison,Texas,75004,
+357,Ben,,Messier,,618-361-8546,,,,75045,909-215-4838,20 Florence Road,Addison,Texas,75003,
+358,Rocky,Allyn,Magor,209-535-2702,932-912-9931,6 Crescent Oaks Parkway,Addison,Texas,75035,879-797-1124,7481 Orin Crossing,Dallas,Texas,75001,
+359,Alwyn,,Menaul,266-263-9469,596-502-0473,95 Mallory Point,Plano,Texas,,,,,,,1973-04-23
+360,Maddy,Pansy,D'Ambrogi,730-107-2205,864-376-6906,1131 Marquette Parkway,Richardson,Texas,75031,,,,,,
+361,Brandice,Junina,Grebert,,797-503-8595,988 Vernon Avenue,Plano,Texas,75086,,,,,,1965-04-09
+362,Mozes,,Grzeszczak,,403-213-9920,36 Nova Junction,Addison,Texas,75061,,9 Ramsey Point,Dallas,Texas,75003,1975-05-23
+363,Christie,Morganica,Silverson,,780-333-1752,029 Derek Crossing,Allen,Texas,75060,,5 Schlimgen Junction,Plano,Texas,75001,1974-04-11
+364,Armand,,Shuttell,582-749-6687,857-353-9811,,,,75004,504-337-0116,78 Anhalt Way,Dallas,Texas,75006,
+365,Tyson,Whitney,Thonason,,929-204-2594,85 Mandrake Street,Allen,Texas,,377-536-3273,,,,,1991-03-20
+366,Antonella,Giffard,Graveson,666-756-7464,402-523-1467,53 Thierer Junction,Dallas,Texas,75010,948-644-8406,68 Crownhardt Drive,Addison,Texas,75001,1982-04-21
+367,Bailey,Ariel,Huckerby,,301-167-5280,,,,75091,101-854-8404,,,,,1987-03-10
+368,Del,,Thrussell,,716-962-9064,12 Springs Drive,Allen,Texas,75089,,,,,,
+369,Dorice,Matthiew,Isley,,654-969-1212,1 Hovde Pass,Addison,Texas,75040,,8437 Debra Street,Richardson,Texas,75001,
+370,Cymbre,Killie,Summerson,789-400-2515,317-229-1546,620 West Drive,Addison,Texas,75073,416-879-8878,56443 Merchant Court,Dallas,Texas,75002,
+371,Samara,Jo-ann,Lanchester,,489-298-2101,463 5th Junction,Addison,Texas,75020,604-545-2282,27520 Coleman Junction,Addison,Texas,75001,
+372,Fidole,Meta,Tonna,,496-842-3379,02 Northport Park,Richardson,Texas,75077,,79 Farragut Junction,Addison,Texas,75008,
+373,Loree,Risa,Kilroy,725-649-0235,307-231-2915,0 Truax Park,Plano,Texas,75033,,34948 Sunnyside Center,Dallas,Texas,75007,1980-10-10
+374,Lindsay,,Litt,668-288-6001,601-142-2316,778 Carey Avenue,Addison,Texas,75025,,3233 Southridge Parkway,Allen,Texas,75006,1970-08-02
+375,Merrilee,Holly-anne,Raxworthy,596-847-5055,801-567-5147,4510 Southridge Circle,Allen,Texas,75050,,6 Sauthoff Park,Dallas,Texas,75001,
+376,Konrad,Royall,Reuble,,361-713-1548,,,,75066,675-945-1790,,,,,1973-02-13
+377,Brit,Laureen,Treby,707-357-7631,791-318-8485,9322 Armistice Park,Plano,Texas,75032,391-193-8566,,,,,1994-07-07
+378,Rosanna,Bari,Marchenko,,517-774-9742,98252 Manufacturers Parkway,Allen,Texas,75092,864-330-9633,,,,,1990-03-22
+379,Pearle,,Bendson,815-424-8560,917-581-1409,6694 Columbus Plaza,Richardson,Texas,75004,,22 Burrows Circle,Plano,Texas,75003,1971-07-04
+380,Arlana,,Antunez,,975-592-3460,,,,75009,248-192-5921,,,,,1983-04-19
+381,Samara,,Kneesha,,916-497-8573,47 Dakota Parkway,Dallas,Texas,75091,386-671-7528,9813 Brickson Park Pass,Addison,Texas,75004,
+382,Hulda,,Yakuntsov,,418-679-8335,7986 Fallview Point,Richardson,Texas,75057,280-444-8902,1 Golf Circle,Plano,Texas,75001,
+383,Jerry,,Chastaing,,876-831-4057,,,,75033,,06 Anniversary Crossing,Addison,Texas,75001,1983-05-03
+384,Iorgo,Adah,Boddymead,728-482-0392,948-770-0844,66 Sunbrook Hill,Richardson,Texas,75049,,9 Mifflin Point,Richardson,Texas,75001,
+385,Monika,,Rault,204-119-8973,308-669-7144,09 Farragut Way,Dallas,Texas,75003,941-950-6164,,,,,
+386,Bevvy,,Heddon,,577-509-8589,86112 Michigan Alley,Plano,Texas,75017,625-597-7748,307 Anhalt Point,Addison,Texas,75006,
+387,Mariana,,Donati,974-355-1991,610-520-1894,,,,75046,906-764-3201,6 Canary Center,Addison,Texas,75004,1982-11-18
+388,Kinsley,,Bridgestock,792-798-2012,270-500-4689,1 Continental Crossing,Dallas,Texas,75087,178-568-9297,88 Mifflin Hill,Dallas,Texas,75003,1981-05-29
+389,Ilse,Hamlin,Martinec,265-831-5801,247-136-6714,5 Sunfield Trail,Plano,Texas,75018,362-277-0473,,,,,1980-05-10
+390,Katheryn,Dorita,Derx,667-288-6212,212-973-3833,21338 Jenna Center,Plano,Texas,,911-265-4340,041 Grover Avenue,Richardson,Texas,75008,1966-05-17
+391,Tuck,Glyn,Leat,594-957-5867,690-629-8142,4216 Ridgeview Way,Plano,Texas,75093,257-126-5945,,,,,1980-12-24
+392,Gustave,,Benedtti,,963-162-6782,,,,,386-168-1195,91 Katie Lane,Dallas,Texas,75002,1974-05-01
+393,Marietta,,Cridlin,440-289-8057,429-480-2032,7260 Hudson Street,Richardson,Texas,,,,,,,1970-01-04
+394,Ellie,,Doulton,,833-420-8697,11738 Harbort Road,Allen,Texas,75003,,20 Barby Parkway,Addison,Texas,75003,1980-01-23
+395,Agathe,,Cunde,,970-795-8180,44 Harbort Alley,Richardson,Texas,75088,357-549-9858,634 Schiller Hill,Plano,Texas,75002,1989-08-10
+396,Rosette,,Tander,,890-165-7394,83453 Clemons Junction,Allen,Texas,,,,,,,1988-05-07
+397,Carma,,Glede,500-159-1166,879-639-3102,81 Lillian Crossing,Plano,Texas,75084,604-874-4819,,,,,1966-12-12
+398,Carroll,Lorrin,Garrick,,453-676-5952,928 Karstens Place,Dallas,Texas,,115-121-2435,,,,,1990-01-03
+399,Barclay,,Sambles,915-417-5581,301-780-8939,88 Anderson Trail,Dallas,Texas,75035,901-328-3792,33845 Drewry Terrace,Plano,Texas,75002,1979-06-11
+400,Vail,Zaria,Phant,,,413 Grasskamp Terrace,Richardson,Texas,75003,709-738-1738,,,,,
+401,Irita,,Matyashev,,819-492-5695,7996 Oak Valley Circle,Plano,Texas,75019,252-286-8767,75007 Village Parkway,Richardson,Texas,75007,1996-02-10
+402,Ranique,,Blaxill,,176-314-4811,108 Pepper Wood Alley,Dallas,Texas,75089,,764 Tennyson Center,Allen,Texas,75002,1966-04-02
+403,Yevette,Tiff,Molohan,,346-501-9702,4991 Dapin Crossing,Richardson,Texas,75034,,557 Daystar Parkway,Allen,Texas,75005,
+404,Che,Philly,Ivashnyov,,,1 Ludington Circle,Richardson,Texas,,,,,,,
+405,Kaela,Merry,Wynne,,551-497-8817,084 Thackeray Trail,Richardson,Texas,,713-212-4104,74472 Valley Edge Crossing,Allen,Texas,75009,
+406,Reinhold,,Merigeau,,379-446-5516,77379 Hermina Lane,Plano,Texas,75085,772-475-8322,,,,,1996-11-14
+407,Mel,,Tschirschky,,,,,,75034,834-605-7974,7 Northwestern Terrace,Allen,Texas,75007,1967-12-12
+408,Amalle,,Ferrieres,648-571-4202,122-772-1670,1 Superior Park,Dallas,Texas,75037,587-962-3774,906 Mcguire Junction,Richardson,Texas,75009,1982-03-25
+409,Conway,,Domoni,,931-380-6036,45 Summit Trail,Dallas,Texas,75037,779-835-5111,,,,,1976-03-27
+410,Carlie,Kacie,Marti,286-187-4570,407-944-3765,,,,75095,,0 7th Avenue,Plano,Texas,75003,
+411,Gillan,,Olley,,482-696-8869,5 Debs Park,Allen,Texas,75068,273-175-6814,,,,,1989-05-17
+412,Sullivan,Chloe,Branford,,488-713-4507,2 Ridgeway Drive,Allen,Texas,75003,451-212-5486,03 Dorton Point,Addison,Texas,75007,1969-04-04
+413,Malanie,Jacenta,Bloggett,942-462-9310,407-607-9732,978 Buell Circle,Richardson,Texas,,425-197-3858,,,,,
+414,Boote,Elonore,Forsdyke,,895-876-0800,696 Esch Way,Addison,Texas,75001,619-813-3510,,,,,
+415,Remy,,Wreight,,672-198-3035,0 Express Pass,Addison,Texas,,,0792 Reindahl Terrace,Plano,Texas,75006,1969-03-05
+416,Crystie,,Reasce,,706-806-9461,9165 Colorado Way,Richardson,Texas,75036,327-101-0402,,,,,1965-10-20
+417,Harriett,Niles,Avon,,374-441-7592,,,,,190-440-8826,816 Riverside Alley,Addison,Texas,75002,1975-02-13
+418,Nat,Malvin,Gherardini,,615-660-2876,8831 Waxwing Point,Addison,Texas,75012,810-648-7739,,,,,
+419,Sheela,,McAline,,664-565-4203,25 Straubel Lane,Allen,Texas,75077,,,,,,1979-03-11
+420,Haleigh,Renaud,Barrand,,455-220-3403,5 Melvin Drive,Richardson,Texas,75038,,430 Mcbride Street,Richardson,Texas,75009,
+421,Cookie,Maurise,Disbrow,,897-443-3157,6367 Annamark Junction,Plano,Texas,75024,,0602 Old Shore Place,Plano,Texas,75008,1981-08-29
+422,Hewie,Maximilian,Sives,,243-870-9923,,,,75086,235-186-3222,335 Fremont Park,Addison,Texas,75002,
+423,Desdemona,,Wadeson,,,77 Dakota Alley,Allen,Texas,75001,,322 Declaration Trail,Dallas,Texas,75002,
+424,Aleece,Colas,Landell,139-715-3022,392-581-2335,828 Shoshone Drive,Plano,Texas,,368-711-3336,9 Hanover Park,Addison,Texas,75001,1994-03-13
+425,Marcelline,,Noor,,989-833-6141,57306 Westridge Junction,Plano,Texas,,,532 Truax Drive,Plano,Texas,75001,
+426,Walker,Frankie,Tremlett,449-253-1352,737-408-4838,,,,,674-810-0933,31345 Manley Crossing,Allen,Texas,75003,1984-06-30
+427,Valentino,Karena,Shrieve,277-894-6191,789-513-4253,43 Tennessee Park,Dallas,Texas,75054,218-306-4059,,,,,1968-04-09
+428,Jorey,,Waite,,777-238-3165,333 Montana Avenue,Richardson,Texas,,,,,,,
+429,Marylynne,Emeline,Scardifeild,212-241-1047,762-682-2323,03062 Express Crossing,Richardson,Texas,,192-712-9675,6 8th Place,Addison,Texas,75005,1980-09-27
+430,Susann,Junette,Loney,611-586-0987,131-639-1104,,,,,898-361-6855,50840 Tomscot Lane,Allen,Texas,75008,1982-03-11
+431,Kellyann,,Treuge,730-827-7962,832-750-2254,,,,75004,,,,,,1966-04-30
+432,Gilbertine,,Aymeric,,795-888-6145,570 Prairie Rose Terrace,Richardson,Texas,75011,587-938-5724,,,,,1977-09-14
+433,Marlon,Travus,Ivachyov,,231-592-2682,50463 Novick Road,Richardson,Texas,,471-194-1796,,,,,
+434,Gus,Tarah,Janauschek,,693-126-2725,1703 Portage Place,Plano,Texas,75096,999-236-1304,2683 Comanche Court,Allen,Texas,75004,
+435,Frayda,,Rego,199-584-8576,197-372-8782,66 Service Pass,Dallas,Texas,75069,817-769-4012,049 Waywood Crossing,Dallas,Texas,75006,
+436,Jayne,,Bocke,,928-902-2194,15 Marquette Center,Allen,Texas,,110-171-2404,,,,,
+437,Olivero,Wanids,Katt,,493-474-6204,1152 Basil Crossing,Plano,Texas,75024,569-256-8237,,,,,
+438,Vincenz,,Martinson,,185-738-4858,00 Aberg Trail,Dallas,Texas,,,,,,,1964-08-17
+439,Rafaelia,,Kendred,931-165-9882,788-839-4995,97897 Nevada Place,Richardson,Texas,,,,,,,1968-12-11
+440,Fayth,Vonnie,Lacer,700-469-3191,290-239-4431,86669 Kings Court,Addison,Texas,,,,,,,1987-09-20
+441,Cristobal,,Broggelli,,681-884-9486,639 Del Mar Plaza,Dallas,Texas,75091,388-481-3001,,,,,1989-04-16
+442,Tania,Ari,Wetter,,451-576-9876,28 Kipling Pass,Addison,Texas,,674-799-6565,56 Carpenter Plaza,Dallas,Texas,75006,1975-02-11
+443,Tomaso,Holli,Adamsen,,367-653-7536,6 Aberg Hill,Allen,Texas,75042,260-312-0545,89656 Gateway Junction,Richardson,Texas,75001,1994-12-19
+444,Ericka,Elvera,Scarlan,,623-129-3133,39881 Vidon Center,Richardson,Texas,75098,672-683-0513,80 High Crossing Pass,Dallas,Texas,75006,1972-07-17
+445,Benoit,Cherianne,Smyth,,560-910-4461,29509 Calypso Circle,Plano,Texas,75098,,,,,,
+446,Shane,Johannah,McGunley,164-838-5185,537-563-3945,49285 Huxley Park,Richardson,Texas,75039,,0830 Kingsford Center,Richardson,Texas,75006,
+447,Lucine,Bridget,Jamieson,637-306-2368,731-927-9782,3990 Lakeland Plaza,Dallas,Texas,75090,,18 Dexter Point,Dallas,Texas,75001,1973-07-05
+448,Bobina,Aline,Kleinmintz,,711-728-1673,3757 Truax Park,Richardson,Texas,,420-553-3770,,,,,1983-02-04
+449,Lorrie,,Loker,698-666-5675,712-191-9859,,,,75058,585-470-9801,,,,,1977-05-08
+450,Ignacio,Grace,Matyugin,,985-835-1578,18975 Harbort Hill,Dallas,Texas,75004,,,,,,1968-01-09
+451,Cesare,Celka,Sellers,,243-475-8168,47751 Red Cloud Street,Dallas,Texas,75013,376-914-5367,,,,,1989-07-02
+452,Alwyn,Gene,McCorkindale,416-513-9185,774-896-0810,648 Hooker Junction,Dallas,Texas,75061,,,,,,1969-12-30
+453,Stafford,,Pinilla,,766-603-1114,60302 Longview Way,Richardson,Texas,75004,100-231-1817,539 Canary Point,Plano,Texas,75005,1968-02-17
+454,Ange,Vernor,Huckster,,577-152-7587,834 Manitowish Center,Addison,Texas,,771-306-7181,,,,,
+455,Dinah,,Ashburner,429-183-1898,168-600-1777,3 Onsgard Plaza,Addison,Texas,75005,998-763-9884,98 Harper Avenue,Plano,Texas,75007,1964-10-09
+456,Gabbie,Tina,Riordan,913-290-1029,975-887-0855,0 Larry Way,Allen,Texas,75060,,73795 Red Cloud Crossing,Richardson,Texas,75005,1982-12-19
+457,Gayler,,Maffin,195-834-7955,,370 Longview Hill,Allen,Texas,75005,829-200-9897,,,,,
+458,Gleda,Adelina,Thunders,,532-293-4334,90777 Northwestern Street,Addison,Texas,,622-744-2732,,,,,1975-08-22
+459,Binky,Stacie,Bengtsson,,306-893-4925,72116 Rockefeller Street,Allen,Texas,75097,498-501-1581,,,,,
+460,Valaree,,Burril,,319-242-9453,71 Loftsgordon Hill,Dallas,Texas,,140-160-0913,57092 Clarendon Lane,Allen,Texas,75005,1977-06-05
+461,Robinette,,Grasner,,133-848-9230,4574 Sachs Street,Allen,Texas,,291-645-6297,,,,,1988-06-11
+462,Veda,Lynne,Dorrington,,143-268-5227,472 Merchant Street,Allen,Texas,,,,,,,
+463,Venus,,Woolnough,483-761-7372,904-488-3281,3912 Riverside Circle,Richardson,Texas,75039,641-642-7666,,,,,
+464,Dalia,Heywood,Wardall,,972-732-8421,79872 Roth Way,Plano,Texas,75082,,,,,,1991-07-10
+465,Ciro,Augustine,Went,567-770-1111,884-502-5285,34 Dexter Drive,Plano,Texas,75044,946-969-2724,694 High Crossing Drive,Richardson,Texas,75002,1975-01-07
+466,Mina,Hansiain,Ranson,,422-640-9616,212 School Hill,Plano,Texas,75093,181-347-5668,64077 Stuart Street,Allen,Texas,75001,
+467,Weider,Tressa,Ducaen,214-352-6381,340-749-6640,,,,75011,,0603 Debs Terrace,Richardson,Texas,75003,1994-03-26
+468,Barbie,Zara,Baser,534-154-8618,913-260-5908,2 Kinsman Avenue,Allen,Texas,,911-909-9299,,,,,1973-01-02
+469,Salomon,Elonore,Gatward,667-447-8000,146-161-0751,887 Mockingbird Park,Richardson,Texas,75011,337-219-5406,83 Anderson Parkway,Allen,Texas,75004,1976-10-27
+470,Kellyann,,Sebrook,170-938-9058,720-670-6376,,,,,,5059 Summer Ridge Circle,Addison,Texas,75007,1966-04-06
+471,Chandler,Juan,Ivanchikov,,385-172-2304,1 Havey Hill,Plano,Texas,,666-793-8432,17 Blaine Court,Allen,Texas,75006,
+472,Pauline,Shalna,O'Hederscoll,164-380-7212,969-108-3880,,,,75023,657-178-0570,10 Nobel Road,Richardson,Texas,75008,1972-08-13
+473,Forrest,,Yeoman,,178-497-6381,4106 Dapin Court,Dallas,Texas,75003,,,,,,1980-03-02
+474,Marya,Linzy,Hawney,,125-302-8196,,,,,363-367-0385,,,,,1987-06-20
+475,Claiborn,,Kluss,937-135-2004,804-532-6828,135 Mariners Cove Parkway,Richardson,Texas,75038,744-953-2520,,,,,
+476,Sophia,,Mepsted,706-286-6061,531-212-5264,60 Graedel Plaza,Dallas,Texas,,,,,,,1981-11-25
+477,Guillermo,,Cossom,863-503-0563,,,,,75079,886-499-6561,,,,,
+478,Steffi,Sigrid,Bletso,,649-281-1047,,,,75071,210-956-8721,0 Lakewood Plaza,Richardson,Texas,75001,
+479,Farlee,Cissiee,Wines,472-232-5210,962-482-1935,51 High Crossing Street,Allen,Texas,75002,115-370-7575,4 Grim Road,Allen,Texas,75007,
+480,Wallace,Terri,Duell,,503-252-7641,8142 Mccormick Pass,Dallas,Texas,75083,,,,,,
+481,George,Kania,Defew,,,5652 Pierstorff Road,Plano,Texas,,343-733-0736,7 Starling Lane,Plano,Texas,75004,
+482,Sherye,Olympe,Burker,121-934-9403,364-450-9367,5 Graceland Place,Allen,Texas,,,,,,,
+483,Silvana,Elissa,Landers,,226-268-4925,33 Bluestem Center,Addison,Texas,,636-843-4437,,,,,
+484,Rafferty,Nathaniel,Lanceter,,290-907-7947,78 Caliangt Way,Plano,Texas,75005,,,,,,
+485,Teri,,Hinze,685-409-9085,412-462-6473,114 La Follette Crossing,Addison,Texas,75077,715-911-8841,,,,,1974-12-03
+486,Jacklyn,Frank,MacFadin,868-426-8082,712-821-7924,74197 Mcguire Avenue,Addison,Texas,75061,,,,,,1970-05-14
+487,Gustavo,Rudiger,Noquet,509-521-4735,191-116-3345,,,,75017,491-547-7293,3021 Fairview Drive,Plano,Texas,75007,
+488,Prescott,,Surgen,166-631-6630,995-568-9111,65 Tony Way,Plano,Texas,75020,,,,,,1995-09-29
+489,Clemente,Lillis,Moughton,977-663-9183,882-870-4125,26 Riverside Drive,Plano,Texas,75065,,,,,,1988-08-03
+490,Nico,Slade,O'Kinneally,,544-499-8217,,,,75088,278-900-0285,5 Bluejay Point,Plano,Texas,75008,
+491,Carmencita,,Huddlestone,128-320-9244,249-736-5705,1775 Columbus Place,Addison,Texas,75054,,,,,,1970-09-12
+492,Grete,Gay,Dusey,648-244-7436,426-371-4648,,,,,145-237-4249,,,,,1986-09-09
+493,Daisie,,Gauson,,741-629-5167,,,,75092,143-216-0318,100 Forest Dale Court,Plano,Texas,75005,
+494,Kitty,,Smieton,,412-898-1462,289 Russell Pass,Plano,Texas,75063,,,,,,1974-04-24
+495,Ron,Udall,Ricart,,623-397-6741,3 Maple Wood Plaza,Dallas,Texas,75017,,,,,,1972-12-07
+496,Cindy,Kirby,Verzey,138-648-7465,,1 Stone Corner Terrace,Allen,Texas,,342-644-2961,,,,,
+497,Jemmy,,Maciunas,,356-575-5406,259 Fairview Center,Plano,Texas,75090,,,,,,1970-02-12
+498,Everard,Aili,Nevison,,628-451-7727,1 Gulseth Center,Allen,Texas,75057,,2151 Del Mar Junction,Dallas,Texas,75006,1972-10-07
+499,Cammi,Gun,Werndly,813-512-1295,541-954-8647,86658 Merchant Parkway,Richardson,Texas,,567-137-4078,,,,,1989-01-14
+500,Johanna,,Ciccotti,470-797-9418,982-103-7006,036 Pleasure Parkway,Addison,Texas,75039,651-793-9301,9274 Vermont Circle,Addison,Texas,75001,
+501,Evelyn,Logan,Arnaudot,397-796-6693,554-363-3910,41 Emmet Point,Allen,Texas,75085,,,,,,1983-05-20
+502,Nevsa,,Curtain,,465-408-7447,,,,,,,,,,1976-08-11
+503,Lynnet,,Braim,,819-693-7538,8 Morning Lane,Plano,Texas,,994-399-9693,,,,,
+504,Beulah,Hettie,Deedes,,,,,,75054,315-306-9566,,,,,1971-10-17
+505,Fair,Salli,McCrainor,499-508-8416,169-800-2074,1 Graceland Center,Addison,Texas,,976-625-8362,,,,,1966-06-23
+506,Emmanuel,Petronilla,Bather,986-373-5019,400-217-6129,3 Chinook Junction,Addison,Texas,75021,,80047 Delladonna Pass,Richardson,Texas,75003,1980-07-31
+507,Findley,Winny,Barz,,222-174-1536,28 Melvin Court,Allen,Texas,75092,715-356-6425,,,,,1979-05-31
+508,Aguie,,Kinze,707-106-4739,323-761-6593,546 Arapahoe Alley,Allen,Texas,75041,810-493-9449,,,,,1992-01-17
+509,Vivianne,,Teager,657-510-8911,377-143-2037,2 Mandrake Lane,Addison,Texas,,112-297-5716,74991 Prairieview Alley,Richardson,Texas,75006,
+510,Vic,,Aspital,202-783-0750,725-458-2600,,,,,430-508-6482,,,,,
+511,Nick,Hughie,Cremen,,949-602-5775,1160 Waubesa Court,Addison,Texas,75080,,,,,,
+512,Averil,,Feaveer,,444-778-0071,74 Grim Center,Addison,Texas,75047,979-670-7880,,,,,1989-05-14
+513,Freddy,,Lidgett,,307-403-5816,3 Straubel Trail,Addison,Texas,75022,455-463-2077,7354 Harbort Lane,Dallas,Texas,75007,1995-10-29
+514,Georgy,,Lewtey,,635-815-2497,09144 Waxwing Parkway,Plano,Texas,75080,230-183-9892,,,,,1972-10-25
+515,Agathe,Darnall,Bartelet,,781-256-5626,4 Golf View Street,Richardson,Texas,75049,,,,,,1975-03-27
+516,Ethel,,Thandi,454-731-4647,100-440-4512,,,,75043,,7862 Stephen Park,Addison,Texas,75003,
+517,Kasey,,Ferris,757-797-0053,509-929-8692,6133 Blaine Plaza,Plano,Texas,,920-635-6087,,,,,1992-09-07
+518,Yolanda,Clementius,Valadez,288-615-0105,,55 Utah Way,Dallas,Texas,,298-518-8826,69908 School Way,Allen,Texas,75003,1976-05-16
+519,Nealon,Clayborne,Lumm,256-874-6101,770-873-8706,30380 Melvin Terrace,Addison,Texas,75047,,3 Shopko Avenue,Addison,Texas,75001,1982-12-01
+520,Brinn,,Westphal,,496-320-8616,,,,75071,,1 Lotheville Parkway,Dallas,Texas,75001,1977-09-12
+521,Averyl,Faber,Odo,,615-435-9965,443 Gale Avenue,Dallas,Texas,,173-480-6540,93 Lillian Hill,Richardson,Texas,75009,
+522,Tobin,Ulysses,Janicki,446-878-4707,189-377-0787,57436 Merrick Lane,Dallas,Texas,75065,860-212-6627,,,,,1986-05-12
+523,Byram,Barton,Meller,709-162-0392,966-964-0179,64231 Green Ridge Parkway,Dallas,Texas,75018,820-909-1852,79568 Oxford Plaza,Addison,Texas,75008,
+524,Alfons,Stefano,Whitta,,280-859-4236,58 Northview Drive,Allen,Texas,75032,958-446-5383,22928 Delaware Terrace,Addison,Texas,75009,
+525,Bernadette,Aland,Genn,934-357-9610,995-904-0328,26 Stuart Road,Plano,Texas,75050,,,,,,1979-10-19
+526,Reginauld,Ardyce,Matevosian,831-399-6098,666-522-2333,0 Crowley Circle,Allen,Texas,75052,262-101-1866,,,,,
+527,Derby,Walton,McQuillin,,143-178-7457,3896 Columbus Parkway,Addison,Texas,75010,522-111-1653,6988 Eastlawn Terrace,Dallas,Texas,75007,1963-12-23
+528,Carny,,Roscam,,228-614-3022,25867 Florence Avenue,Allen,Texas,,774-121-2397,8 Summer Ridge Drive,Plano,Texas,75002,
+529,Wright,Arlie,Aron,,846-411-1941,018 Muir Circle,Plano,Texas,,,309 Dorton Street,Addison,Texas,75001,1970-12-03
+530,Corrina,Marci,Kippin,538-703-0206,411-930-8847,23 Sullivan Alley,Addison,Texas,,,,,,,1979-03-08
+531,Ira,,Purnell,465-668-2750,833-330-1202,3392 Sherman Circle,Richardson,Texas,,926-708-5734,7 Homewood Park,Richardson,Texas,75009,
+532,Eddie,Carolus,Mungin,438-242-3353,257-399-6959,217 Dayton Road,Plano,Texas,75089,,,,,,1967-08-02
+533,Marje,Perceval,Siddons,,834-528-4867,6537 Colorado Hill,Plano,Texas,75087,967-395-4123,8 Randy Court,Addison,Texas,75002,1982-02-21
+534,Carolan,Myrtle,Paling,124-723-9834,268-910-1288,,,,75006,211-337-3346,,,,,1974-10-07
+535,Rock,,Baff,,690-106-0283,6 Carpenter Pass,Allen,Texas,75001,,115 Kropf Alley,Dallas,Texas,75008,
+536,Vinny,,Niemiec,,773-429-6976,837 Westridge Lane,Allen,Texas,75079,214-875-7894,,,,,1986-08-23
+537,Fae,Jess,O'Shee,722-931-7082,379-426-6392,114 Mitchell Terrace,Addison,Texas,,,0718 Oneill Court,Dallas,Texas,75001,1988-10-11
+538,Abdul,,Peniello,696-784-7980,361-290-8534,344 Glacier Hill Point,Addison,Texas,,402-779-2874,,,,,
+539,Bobby,,Bennell,880-723-9347,240-249-6997,23 Blackbird Alley,Plano,Texas,75091,,,,,,1967-09-06
+540,Leonore,,Birnie,,166-200-7628,5 Merry Terrace,Richardson,Texas,75081,694-196-8569,0456 Messerschmidt Junction,Addison,Texas,75008,1964-08-03
+541,Ivy,Miguel,Swynfen,762-657-3787,836-478-4999,149 Talisman Court,Plano,Texas,,106-837-6086,,,,,
+542,Priscilla,Clayborne,Bister,313-526-5569,820-350-1800,516 Stoughton Plaza,Allen,Texas,75093,,,,,,1986-01-21
+543,Sisely,,Burgan,215-128-1209,612-978-5732,0179 Kensington Trail,Dallas,Texas,75087,219-999-2565,,,,,
+544,Lorenzo,Merrilee,Ferencz,,701-167-1893,1086 Ludington Pass,Addison,Texas,75040,673-179-5889,,,,,
+545,Inigo,,Eger,730-706-4982,282-640-1972,11388 Reinke Way,Addison,Texas,75052,538-548-8954,,,,,
+546,Gianna,,Agent,,643-498-4183,68 Laurel Plaza,Allen,Texas,75079,141-602-7456,6123 Lighthouse Bay Point,Richardson,Texas,75004,
+547,Marven,,Iban,,419-754-2728,05232 Knutson Pass,Richardson,Texas,75059,729-564-5716,250 Glacier Hill Circle,Dallas,Texas,75001,1976-04-13
+548,Caril,Cherida,Billson,154-687-4059,617-202-0077,3722 Summit Junction,Richardson,Texas,,796-153-8520,,,,,
+549,Correy,,Goldfinch,553-521-3453,487-626-5314,6830 Lake View Hill,Allen,Texas,,110-263-9113,300 Crest Line Point,Richardson,Texas,75004,1996-08-24
+550,Mitchell,,Mantrip,,291-698-6261,963 Cottonwood Junction,Allen,Texas,,571-496-7077,865 Declaration Court,Dallas,Texas,75009,
+551,Tabbie,Jayme,Kimpton,,820-802-6458,7 Comanche Plaza,Richardson,Texas,75006,571-491-7267,,,,,
+552,Brody,Fredelia,Langrick,706-458-4328,437-908-2846,73097 Autumn Leaf Street,Addison,Texas,,470-191-7272,,,,,
+553,Deloria,Emmit,Matussow,558-206-7434,229-671-5474,6 Waywood Drive,Addison,Texas,,,03646 Katie Terrace,Plano,Texas,75005,1966-03-10
+554,Letisha,,Lydon,571-222-3859,577-580-4053,,,,75079,645-883-0748,,,,,
+555,Pryce,Shay,Mulholland,462-374-8922,822-393-0078,70 Brown Place,Dallas,Texas,,223-219-3564,,,,,
+556,Gaelan,,Cleyburn,794-481-3272,843-451-1791,,,,75071,,89192 Dexter Court,Addison,Texas,75008,1991-04-30
+557,Alessandra,Kirbie,Parsisson,,889-261-1340,1 Mallard Trail,Addison,Texas,75078,,150 Park Meadow Drive,Plano,Texas,75001,1972-05-06
+558,Freeland,,Sevier,338-971-3228,983-241-7115,0848 Bluestem Hill,Dallas,Texas,,,,,,,
+559,Lucy,Neddy,Domnick,,827-681-0172,75026 Straubel Lane,Allen,Texas,,,,,,,1980-07-13
+560,Izaak,Goddard,Beardshaw,910-813-6415,305-655-7088,,,,75061,,83189 Tony Road,Addison,Texas,75002,1987-02-18
+561,Araldo,Boothe,Meekings,113-984-8287,144-914-0254,502 Dawn Center,Addison,Texas,75095,730-152-3265,,,,,
+562,Bunny,Kettie,Dewerson,202-953-8690,781-632-9220,,,,,268-390-2705,10495 Melby Point,Allen,Texas,75002,1975-10-24
+563,Bobbie,Netta,Romain,993-579-8257,733-214-8237,9 Dorton Hill,Addison,Texas,75025,,,,,,
+564,Claretta,,Kimberly,,197-249-1733,3 Pierstorff Lane,Dallas,Texas,,580-579-5910,,,,,
+565,Herbert,Iain,Barles,,198-524-8591,5 Old Shore Way,Dallas,Texas,75094,326-466-4626,,,,,1980-02-28
+566,Julie,Pearce,Wittrington,,,6 Gale Point,Richardson,Texas,,,,,,,1982-01-03
+567,Remington,,Petts,,815-780-0862,0273 Fairview Way,Addison,Texas,,289-471-9015,,,,,
+568,Malia,,Fricker,,967-319-8287,49356 Anhalt Court,Dallas,Texas,75016,,55 Vidon Drive,Allen,Texas,75004,
+569,Jessy,Bill,Lippatt,,420-714-2964,0187 Beilfuss Crossing,Allen,Texas,75026,,,,,,
+570,Willey,,Halloway,510-509-1271,610-499-9732,952 Browning Junction,Allen,Texas,75025,,446 Nova Road,Richardson,Texas,75006,1985-10-26
+571,Giacinta,Dimitri,Turner,,867-953-2674,59 Buell Park,Richardson,Texas,75062,,,,,,1979-11-23
+572,Parry,Nadiya,Swayne,133-648-4677,193-918-3861,,,,,,66 Paget Point,Addison,Texas,75006,
+573,Milt,,Earwaker,166-250-7186,314-746-1446,,,,75032,,51 Welch Road,Plano,Texas,75006,1967-04-19
+574,Malory,Stephannie,Garfoot,,506-611-4114,45444 Sutherland Trail,Dallas,Texas,75091,826-458-5115,40 Stoughton Road,Allen,Texas,75007,1982-12-31
+575,Uriel,,Purrington,,581-371-1114,2457 Fuller Court,Richardson,Texas,,,86178 Hoffman Place,Richardson,Texas,75008,1977-01-13
+576,Alexa,Appolonia,Ruperti,263-210-4517,992-563-5331,723 Bayside Alley,Richardson,Texas,75013,,97573 Westport Street,Dallas,Texas,75006,
+577,Nata,Lemmy,Simacek,612-204-4153,894-651-4980,9494 3rd Parkway,Addison,Texas,75043,,768 Manley Road,Addison,Texas,75008,1985-12-26
+578,Angelica,Brinna,Dainter,264-549-2023,616-843-8555,689 Maywood Trail,Dallas,Texas,,912-252-7214,,,,,1995-11-28
+579,Ber,Flem,Camellini,543-388-7040,918-789-2332,7839 Carioca Drive,Allen,Texas,75091,255-295-2018,76477 Hintze Drive,Plano,Texas,75009,1966-12-05
+580,Ede,,Ansley,841-238-2109,168-703-7031,8 Rockefeller Drive,Plano,Texas,75021,314-583-4688,942 Superior Terrace,Allen,Texas,75002,
+581,Erwin,Inigo,Bickmore,537-736-7621,943-883-6641,44630 Elgar Avenue,Allen,Texas,75062,,6705 Tennyson Junction,Allen,Texas,75009,
+582,Nathanial,Anthia,Eckley,623-677-2825,949-219-9822,680 Meadow Vale Parkway,Richardson,Texas,75034,,01518 Gina Terrace,Allen,Texas,75008,1982-07-24
+583,Vick,Adriana,Anthonsen,,711-262-8273,120 Tony Center,Addison,Texas,75029,363-241-5864,3 Upham Pass,Addison,Texas,75002,
+584,Demetria,Ronna,Mattusevich,892-538-2055,558-703-4938,92383 North Crossing,Addison,Texas,,550-660-0455,34 Pennsylvania Alley,Addison,Texas,75005,1996-05-23
+585,Haleigh,Xenos,Grindle,,540-389-9303,28 Cottonwood Circle,Addison,Texas,75091,345-921-3286,,,,,1995-04-20
+586,Amandi,Henrieta,Bruyns,,185-841-2524,66 Charing Cross Trail,Plano,Texas,75092,,360 Miller Crossing,Richardson,Texas,75001,
+587,Haley,Piper,Jamison,,824-465-2005,9 Warrior Plaza,Plano,Texas,75008,549-741-7424,938 Sherman Parkway,Addison,Texas,75005,
+588,Lynett,,Turton,340-852-3223,955-330-9591,,,,75028,,,,,,1976-11-16
+589,Marjie,,Mowlam,,182-512-8309,00220 Manufacturers Road,Dallas,Texas,,,2 Del Mar Crossing,Richardson,Texas,75009,1972-08-04
+590,Saundra,Keary,Jellyman,,762-150-2499,,,,,242-887-2472,,,,,1970-03-28
+591,Vachel,,Tweedell,,799-945-6690,,,,75017,,1470 Fieldstone Point,Addison,Texas,75002,1995-04-02
+592,Aubry,,MacCallam,,962-992-2250,,,,75047,,,,,,1966-10-10
+593,Zorah,,Tewkesberry,421-831-3543,849-383-8591,,,,,904-847-9468,,,,,1977-11-23
+594,Baird,Tiertza,Eallis,,606-637-5623,465 Rigney Way,Allen,Texas,75051,417-487-7198,6446 7th Point,Addison,Texas,75002,1969-08-31
+595,Terence,Miran,Robardet,413-531-8434,211-290-6618,,,,,587-911-0972,,,,,
+596,Lilly,,Eslie,,102-896-6692,89 Kenwood Trail,Addison,Texas,75095,,2787 Gulseth Way,Addison,Texas,75004,
+597,Margie,Justina,Gatus,617-481-3465,811-394-2997,3 Mcguire Circle,Plano,Texas,,584-514-4430,,,,,1972-12-26
+598,David,,Henke,170-556-7855,398-137-0658,57438 Arrowood Alley,Dallas,Texas,75070,,,,,,1995-03-23
+599,Lew,,Croucher,600-451-2532,738-290-4244,810 Carberry Place,Dallas,Texas,75082,,,,,,
+600,Lauren,Sherrie,Woodson,,675-560-3320,25433 Sauthoff Place,Allen,Texas,75024,978-658-7078,,,,,
+601,Delano,,Feldmus,421-197-2033,768-844-0424,9 Hoepker Parkway,Plano,Texas,75003,,7 3rd Park,Plano,Texas,75008,1966-04-04
+602,Vick,Elane,Behnecken,,678-941-4232,,,,75032,281-113-3567,297 Stang Circle,Dallas,Texas,75008,1982-09-12
+603,Rasia,,Reidshaw,,293-218-7670,,,,75094,196-963-4204,,,,,1995-10-24
+604,Nadine,Tamarah,Mosley,670-655-9341,275-786-1915,,,,75004,,158 Lunder Park,Allen,Texas,75004,
+605,Marcela,Colin,Gutherson,,214-103-3750,,,,75036,202-138-1150,73510 Forest Trail,Allen,Texas,75006,1986-10-24
+606,Dorrie,Dannel,Ratazzi,737-958-9439,617-988-8180,32742 Fieldstone Plaza,Allen,Texas,75051,106-920-0104,659 Continental Plaza,Dallas,Texas,75005,
+607,Yolanthe,,Pounsett,,338-584-1868,509 Cherokee Circle,Dallas,Texas,75014,976-166-2533,,,,,
+608,Edik,,Snoxill,,365-102-8995,04 Randy Circle,Allen,Texas,75078,,0780 Spohn Hill,Plano,Texas,75001,1980-01-12
+609,Clive,,Ping,164-223-0877,795-349-4693,59 Talisman Road,Allen,Texas,75019,492-332-2085,14 Magdeline Point,Addison,Texas,75008,1996-12-22
+610,Gael,Dena,Aartsen,,618-986-1477,43 Macpherson Terrace,Richardson,Texas,75098,,,,,,1982-06-16
+611,Glori,Jonie,Bellson,,950-675-7647,,,,75077,503-721-7245,7 Mockingbird Pass,Addison,Texas,75004,1996-02-16
+612,Nikkie,,Cleaveland,,541-794-4309,188 Summerview Way,Plano,Texas,,645-220-7767,,,,,
+613,Janie,Gideon,Pennington,,872-117-4352,0327 Monica Avenue,Addison,Texas,75009,254-186-4625,,,,,1965-03-21
+614,Aldon,,Bubb,922-240-3086,191-593-8795,72 Macpherson Avenue,Plano,Texas,75021,881-447-2783,,,,,
+615,Fifine,Veriee,Philot,,730-116-1243,26807 Bayside Point,Allen,Texas,75050,588-654-1271,57 Cambridge Crossing,Dallas,Texas,75009,
+616,Elston,,Edon,618-796-9938,797-128-7381,877 Fairview Road,Allen,Texas,75071,958-221-4092,0 Valley Edge Alley,Addison,Texas,75001,
+617,Lynette,,Millwater,,539-695-6956,51 Almo Circle,Allen,Texas,75082,,,,,,
+618,Savina,,Devoy,,274-215-8958,390 Garrison Place,Addison,Texas,75096,,80162 Warner Park,Allen,Texas,75008,
+619,Claudio,,Leeuwerink,249-709-9202,237-313-0579,,,,75037,309-787-1028,,,,,
+620,Gerek,,Polendine,661-692-3911,788-362-9821,22191 Declaration Plaza,Allen,Texas,75076,607-348-4886,90323 Grover Lane,Plano,Texas,75008,
+621,Hanny,,Dun,853-546-9822,991-348-5899,09440 Oak Junction,Richardson,Texas,,545-360-2357,,,,,1969-06-03
+622,Kori,Austen,Gossage,,521-341-2069,,,,75075,,,,,,1985-01-14
+623,Vince,,Neles,,770-647-3761,417 Lighthouse Bay Lane,Plano,Texas,75051,,5660 Corry Lane,Allen,Texas,75008,
+624,Tedmund,,Stollsteiner,,442-129-3594,26 Gale Street,Richardson,Texas,,361-215-4638,,,,,1984-08-26
+625,L;urette,Glynis,Heads,611-461-4174,943-657-4652,67 Cottonwood Plaza,Richardson,Texas,75091,459-864-8915,4889 Scott Junction,Richardson,Texas,75004,
+626,Ethe,Anstice,Loxdale,,590-566-3682,,,,75093,958-314-1802,,,,,
+627,Biron,Bertram,Worboy,504-352-0892,520-985-7906,0236 Memorial Park,Plano,Texas,75048,141-328-0941,,,,,
+628,Alecia,Chucho,Menaul,,807-466-1622,,,,,808-181-9129,4865 Southridge Park,Allen,Texas,75006,1971-11-29
+629,Urbain,Duffy,McGowing,354-471-8412,443-124-4418,7 5th Place,Plano,Texas,,516-759-7808,00 Messerschmidt Street,Richardson,Texas,75009,1983-12-12
+630,Angelita,Eimile,Markwelley,294-658-2004,450-863-9437,2 High Crossing Way,Richardson,Texas,,855-252-8005,0557 Stephen Road,Plano,Texas,75005,
+631,Cornall,,Chrystal,,695-564-0734,,,,75021,,95630 Old Shore Way,Allen,Texas,75007,1983-12-24
+632,Lukas,Coriss,Paolino,,866-109-3257,1 Blackbird Pass,Allen,Texas,75032,868-394-0329,926 Vera Drive,Plano,Texas,75003,
+633,Kiri,,Ledner,,405-804-2708,6 Anzinger Street,Plano,Texas,75027,670-146-2731,,,,,1992-05-04
+634,Christine,,Dunkirk,,544-581-7584,15 Maywood Center,Addison,Texas,75084,,13 Golf View Point,Addison,Texas,75005,1978-01-27
+635,Antonia,Caldwell,Collibear,,737-348-1304,9716 Michigan Plaza,Allen,Texas,,,,,,,1986-10-20
+636,Sylvia,Wyn,Schruyers,,450-584-1311,28 Iowa Crossing,Addison,Texas,,,6565 Delaware Road,Richardson,Texas,75001,1977-04-30
+637,Wilow,Fabe,Vogl,848-962-9031,389-649-1101,5 Reinke Center,Addison,Texas,75044,410-782-4597,99883 Crescent Oaks Court,Richardson,Texas,75004,1966-10-13
+638,Jemmy,,Trevithick,893-613-4964,457-991-3698,,,,,658-310-5747,90 Lunder Center,Dallas,Texas,75009,1986-04-23
+639,Torrie,,Thackeray,988-582-1746,918-849-6310,4090 Loeprich Place,Addison,Texas,75036,411-387-2270,,,,,
+640,Norrie,,Erik,,808-184-1996,88 Harbort Alley,Addison,Texas,,,31 Straubel Trail,Dallas,Texas,75007,
+641,Korie,Leeann,Kacheller,,453-651-2782,981 Rockefeller Crossing,Plano,Texas,75072,,,,,,1990-09-27
+642,Patrice,,Verna,,699-705-3475,8 Calypso Drive,Richardson,Texas,75019,,09 Fairfield Way,Richardson,Texas,75002,1989-11-01
+643,Kyla,,Leuchars,,685-893-7026,3 Memorial Terrace,Dallas,Texas,75023,150-203-7396,,,,,
+644,Sonny,,Tynan,,224-524-2233,,,,75069,,19679 Farmco Pass,Plano,Texas,75002,1984-03-07
+645,Tremayne,,Tregiddo,487-123-8854,577-689-5045,8240 Dexter Avenue,Plano,Texas,75083,,8 Columbus Hill,Dallas,Texas,75002,1968-12-01
+646,Tatiania,Phaedra,Aitkin,615-152-0368,573-844-2927,478 Birchwood Court,Plano,Texas,75045,938-694-7934,29421 Ludington Road,Addison,Texas,75006,
+647,Agnola,Carson,Rutley,922-600-3983,426-347-4674,07 North Way,Richardson,Texas,,766-966-9973,9142 Russell Trail,Richardson,Texas,75004,1988-09-09
+648,Jorgan,Marline,Riccardelli,,805-729-1391,5285 Moose Alley,Allen,Texas,,,,,,,1989-10-07
+649,Lorrin,Kerr,Cotgrove,206-963-7826,549-871-4053,9 Stephen Way,Richardson,Texas,75029,703-877-6527,,,,,
+650,Nancy,,Brende,,524-406-2881,3 Jana Avenue,Allen,Texas,75012,,21491 Spaight Lane,Allen,Texas,75004,1994-03-25
+651,Shem,,Paquet,,143-406-7688,65148 Marcy Center,Dallas,Texas,75021,,39 Straubel Circle,Plano,Texas,75001,
+652,Melisent,Josiah,Nickels,,926-457-7170,0859 Elmside Point,Dallas,Texas,75096,834-113-5525,43 Bultman Lane,Plano,Texas,75005,1970-03-31
+653,Betta,,Hacking,,680-770-8684,,,,75093,170-455-9776,53 Eastlawn Park,Plano,Texas,75004,1975-08-25
+654,Jenine,Kahaleel,Kopelman,,689-102-5464,677 Fordem Court,Allen,Texas,75066,563-508-8755,26 Hanson Drive,Richardson,Texas,75004,1973-01-06
+655,Hendrika,Benedick,Billingsley,472-957-6298,,4985 Caliangt Trail,Allen,Texas,,,830 Dovetail Terrace,Addison,Texas,75009,
+656,Lonna,,Widdowfield,,313-365-1151,,,,,430-813-1811,,,,,1970-04-16
+657,Anton,,Van Bruggen,,934-193-4966,,,,75062,209-369-8056,,,,,1994-10-21
+658,Pennie,Iona,Harraway,,198-664-5457,33 Farwell Junction,Allen,Texas,75056,,16847 Jay Terrace,Allen,Texas,75009,1977-04-29
+659,Jillana,Karim,Saich,231-279-4678,888-577-4006,80253 Gulseth Circle,Richardson,Texas,75094,,,,,,1967-08-06
+660,Minnnie,,Tabert,,794-835-3721,48665 Eastwood Drive,Addison,Texas,75039,,,,,,
+661,Mohandis,Charmine,Legg,995-487-6226,653-649-4641,14 4th Road,Allen,Texas,,546-277-4408,,,,,1972-08-27
+662,Tobi,,Keneforde,,523-432-5820,0 Kinsman Plaza,Richardson,Texas,75036,355-744-3975,,,,,
+663,Lettie,,Donnison,233-168-1541,645-280-3041,02 Onsgard Drive,Richardson,Texas,,,,,,,
+664,Stephie,,Ainscough,,435-538-1508,,,,75087,,3 Waubesa Alley,Allen,Texas,75002,
+665,Minny,,Drowsfield,,954-437-2927,72 Tennessee Park,Allen,Texas,75039,322-293-5214,72229 Harbort Plaza,Richardson,Texas,75007,
+666,Jolene,,Petrolli,604-829-8721,785-108-8544,958 Prairieview Court,Allen,Texas,,,,,,,
+667,Jeanne,Jimmie,Borwick,,101-749-1722,2674 Monument Crossing,Allen,Texas,75087,320-378-5745,,,,,1971-01-16
+668,Carree,Munroe,Pullan,,561-432-2555,801 Stephen Point,Richardson,Texas,,,6621 Bay Point,Dallas,Texas,75007,1982-11-20
+669,Austin,,Castane,429-351-3856,673-462-7333,6141 Summit Crossing,Addison,Texas,,718-992-5788,,,,,1967-08-23
+670,Cullen,Willy,Mongan,,193-253-0563,855 Ramsey Lane,Plano,Texas,75007,866-805-8565,,,,,1989-10-20
+671,Bernete,Irina,Schapero,,618-293-4632,,,,75044,,,,,,
+672,Munmro,,Maytum,,556-259-0832,2857 Weeping Birch Center,Plano,Texas,75020,555-601-6156,,,,,1964-12-11
+673,Pearce,Mart,Hebblewhite,,781-768-0396,692 Atwood Drive,Richardson,Texas,,,,,,,
+674,Korella,,Deadman,506-215-3265,447-381-5940,5 Claremont Junction,Allen,Texas,75043,,45 Pierstorff Parkway,Richardson,Texas,75005,1969-10-30
+675,Rochella,Prudy,Damrell,425-984-6018,163-751-8660,436 Fremont Circle,Allen,Texas,75052,,,,,,1986-06-17
+676,Essa,Jonie,Bruhnke,576-848-4382,684-808-7643,65146 Summer Ridge Crossing,Plano,Texas,,,97 Main Park,Addison,Texas,75009,
+677,Marissa,Ilyse,Rowlatt,821-923-5298,160-581-9197,1766 Mifflin Court,Dallas,Texas,75068,567-601-0882,,,,,1969-02-16
+678,Sauncho,Holly-anne,Simonitto,,,3133 Swallow Circle,Addison,Texas,75057,871-803-3297,00 Butterfield Drive,Richardson,Texas,75004,
+679,Enos,Gasper,Starkey,205-861-9844,562-432-5661,219 Oxford Street,Allen,Texas,75080,452-489-9350,03953 Bobwhite Plaza,Plano,Texas,75005,1967-01-24
+680,Neel,,Dunster,,757-425-1137,0 Daystar Avenue,Richardson,Texas,,,,,,,1981-06-14
+681,Freemon,Sandy,Pumphreys,,274-910-5493,,,,,,,,,,1985-06-21
+682,Hillary,Sherman,Reinert,196-291-3176,317-371-5353,,,,75011,,20891 Vernon Plaza,Dallas,Texas,75004,1966-07-15
+683,Ashlee,Garald,Lots,685-128-6858,,3325 Bartelt Place,Plano,Texas,75011,650-980-1375,8642 Havey Plaza,Plano,Texas,75002,1988-02-09
+684,Collette,,Landre,304-705-4385,264-835-9479,21 Brickson Park Plaza,Allen,Texas,,269-345-1175,,,,,1987-06-22
+685,Benedicta,,Heading,,890-909-3556,,,,75081,134-548-9619,,,,,
+686,Estell,Levy,MacPike,455-243-8795,239-186-1659,,,,,485-816-4440,38283 Kennedy Court,Richardson,Texas,75005,1983-03-27
+687,Elna,Marysa,Farlane,,341-209-4793,97 Hooker Point,Richardson,Texas,,363-899-7487,2576 Kennedy Road,Allen,Texas,75005,1988-02-10
+688,Bent,Yance,Braben,839-383-0122,162-671-9486,,,,75014,,534 Menomonie Street,Dallas,Texas,75007,1992-05-28
+689,Hamilton,Stephen,Officer,415-325-9256,497-485-7292,10220 Golden Leaf Lane,Richardson,Texas,75057,,,,,,
+690,Ellyn,Vaughn,Veeler,374-172-8318,,7746 Sommers Circle,Richardson,Texas,,,15426 Duke Hill,Plano,Texas,75008,1984-08-16
+691,Otto,Dyann,Casassa,,337-757-3696,6417 Mccormick Lane,Addison,Texas,75007,951-845-9890,266 Jana Plaza,Plano,Texas,75001,
+692,Karla,Hertha,Lukash,,339-607-5392,70662 Oak Valley Terrace,Addison,Texas,75088,,75536 Sauthoff Pass,Addison,Texas,75003,1990-02-12
+693,Dmitri,,Sifflett,,126-960-8267,77873 Annamark Drive,Allen,Texas,75055,407-368-1194,68443 Bonner Junction,Allen,Texas,75009,
+694,Ayn,,Menauteau,731-234-9537,809-583-0617,,,,75011,999-162-2933,8198 Graedel Terrace,Allen,Texas,75009,
+695,Isaiah,,Bradd,,870-269-9664,,,,75097,579-234-7739,,,,,1983-06-28
+696,Edgard,,Crimpe,,237-158-0791,69493 Amoth Alley,Plano,Texas,75023,166-989-9371,,,,,1973-08-07
+697,Quillan,,Penhearow,,229-141-3801,53 Harbort Center,Plano,Texas,75033,609-821-9967,91786 Rockefeller Drive,Addison,Texas,75002,
+698,Vincenty,,Giacobazzi,,839-794-3611,84579 Blackbird Street,Dallas,Texas,75035,992-895-3755,3847 Morningstar Court,Richardson,Texas,75002,1977-06-16
+699,Fianna,,Dockree,,349-430-5535,9 Manley Lane,Plano,Texas,75049,852-989-9589,26 Banding Trail,Allen,Texas,75002,1987-11-02
+700,Carlyle,,Gillbanks,464-824-7570,892-606-6875,0 Summit Alley,Dallas,Texas,,,,,,,1965-04-19
+701,Queenie,,Billborough,,,7714 Mifflin Street,Dallas,Texas,75043,238-350-8604,6941 Superior Hill,Plano,Texas,75001,1969-06-05
+702,Karrie,,Keri,,628-471-7410,,,,,149-682-6017,83998 Donald Avenue,Addison,Texas,75003,1964-12-03
+703,Henri,Manfred,Tolossi,533-430-2247,245-865-9040,7260 Laurel Alley,Richardson,Texas,75064,748-780-1052,,,,,1974-06-12
+704,Kincaid,Deedee,Lennard,206-411-4699,561-504-5497,2 Eliot Way,Addison,Texas,75082,206-596-6259,,,,,1983-09-02
+705,Hubey,Ted,Frodsam,488-999-9988,676-298-1608,06 Knutson Place,Allen,Texas,75022,112-354-2818,1322 Fair Oaks Park,Allen,Texas,75001,
+706,Cross,Vin,Holah,908-793-1053,994-903-1104,9878 Caliangt Plaza,Plano,Texas,75045,591-884-2691,06754 Meadow Vale Center,Dallas,Texas,75001,1984-10-22
+707,Aubry,Cristiano,Coyish,,700-722-7992,17946 Union Drive,Addison,Texas,75085,383-473-7913,,,,,1967-04-29
+708,Derron,Laurena,Tinmouth,,240-698-4944,6 6th Place,Plano,Texas,75040,254-973-0667,,,,,1996-12-06
+709,Justus,,Breed,714-151-5616,454-212-6861,1684 Crest Line Trail,Richardson,Texas,75085,888-463-5289,93 Moose Alley,Richardson,Texas,75004,
+710,Rosamond,Marta,Trahar,313-874-1285,707-822-5697,6161 Clyde Gallagher Parkway,Dallas,Texas,75034,609-798-6342,,,,,
+711,Jens,Rogers,Gerbel,,560-301-6536,3 Troy Road,Addison,Texas,,508-782-4142,,,,,1987-08-09
+712,Ebba,,Boal,272-133-6169,278-450-9238,4169 Namekagon Park,Plano,Texas,75015,889-840-9544,,,,,1983-12-23
+713,Marcelo,,Fearn,743-462-6487,426-933-5180,,,,75038,364-340-3725,,,,,1983-04-05
+714,Charis,,Demicoli,,331-672-2921,3 Spaight Hill,Allen,Texas,75012,,55290 Meadow Vale Lane,Allen,Texas,75002,1967-04-16
+715,Rosemarie,Richardo,Braxton,,384-866-2152,4530 Schurz Pass,Richardson,Texas,75021,141-935-9216,01053 Pond Terrace,Plano,Texas,75007,1966-09-23
+716,Pru,Gavin,Skone,415-399-0433,893-921-2595,9 Rowland Pass,Addison,Texas,75044,,2 Meadow Vale Avenue,Addison,Texas,75003,1979-10-14
+717,Sonnie,Ashley,Mountfort,565-700-1642,635-914-0041,13053 American Drive,Dallas,Texas,75004,,,,,,1992-11-17
+718,Sandro,,Hitzmann,,438-600-3714,,,,75016,850-445-3974,,,,,
+719,Willabella,,Gerrit,359-471-4507,383-613-1514,,,,75090,,,,,,
+720,Wilmer,Towney,Bellchamber,672-355-8595,416-209-2963,2132 Eastwood Place,Plano,Texas,75076,430-815-8673,,,,,1986-01-04
+721,Ezechiel,,MacAlpin,390-895-2549,,0758 Kings Drive,Dallas,Texas,,264-149-5605,,,,,1977-10-18
+722,Gael,Sheba,Brookfield,645-236-8045,654-821-9595,59 Emmet Crossing,Plano,Texas,75069,792-811-0958,,,,,1992-04-17
+723,Reamonn,Penny,Puckrin,526-739-2732,435-665-2796,93 Dapin Court,Allen,Texas,75024,,,,,,1994-06-03
+724,Pepi,,Pook,,850-527-5802,2 Dahle Hill,Allen,Texas,,,,,,,1981-02-14
+725,Holt,,July,,571-782-3790,27 Continental Lane,Plano,Texas,,702-583-6644,8180 Brickson Park Hill,Richardson,Texas,75005,1977-12-21
+726,Llywellyn,,Jakubczyk,,570-123-4717,09 Springs Avenue,Dallas,Texas,75035,826-706-0583,2 Hollow Ridge Point,Allen,Texas,75005,1988-10-15
+727,Dre,,Greenhill,963-468-8531,129-995-6104,77822 Delladonna Terrace,Allen,Texas,75068,,059 Twin Pines Plaza,Dallas,Texas,75007,1968-04-12
+728,Monica,Jermayne,Moulton,362-702-8075,163-119-9054,868 Farmco Center,Plano,Texas,75003,,66535 Red Cloud Alley,Richardson,Texas,75007,1993-04-23
+729,Fifi,,Priestland,,,,,,75025,,,,,,
+730,Alicea,,Zealy,473-852-0193,942-322-0366,,,,75066,,,,,,1990-08-12
+731,Alfi,Othella,Josum,305-237-3915,446-663-3234,24 Center Hill,Dallas,Texas,75038,927-159-9833,,,,,
+732,Nonie,,Dalzell,643-617-2212,407-294-3291,1473 Farmco Circle,Plano,Texas,75050,423-737-5515,,,,,1970-07-27
+733,Elvera,Philippine,Dimeloe,467-386-2020,412-873-1963,07389 Dorton Park,Plano,Texas,75077,,35 Stang Lane,Richardson,Texas,75001,1980-08-18
+734,Lindon,,Wrangle,,198-353-0171,9 Russell Parkway,Addison,Texas,75034,698-905-7989,72441 Thierer Plaza,Addison,Texas,75008,1967-11-21
+735,Raddie,Kirstin,Krugmann,823-232-4278,566-144-1490,990 Northview Court,Plano,Texas,75057,907-792-5792,,,,,1994-07-30
+736,Elwin,Fayre,Farr,957-691-3150,710-227-8087,00818 Springs Court,Dallas,Texas,75032,263-517-9014,,,,,
+737,Leonhard,,Sorrie,,666-637-2262,352 Westridge Parkway,Richardson,Texas,75050,544-772-2234,35366 Transport Terrace,Addison,Texas,75001,
+738,Jacquelyn,,Crickmore,279-884-5244,677-638-4228,22 Magdeline Street,Dallas,Texas,75063,982-804-9481,013 Northview Court,Addison,Texas,75007,
+739,Britni,Gwenny,Aronov,395-756-3515,117-747-9474,,,,,,,,,,
+740,Tyrone,,McGrouther,,657-129-7689,929 Weeping Birch Avenue,Dallas,Texas,75056,,,,,,
+741,Arabele,Paxon,Deniset,432-943-2237,846-880-9400,,,,,222-428-0051,,,,,1979-12-15
+742,Glenden,Anselma,Croisdall,175-176-2824,594-797-7349,861 Lakewood Crossing,Allen,Texas,,699-916-9933,1 Lillian Center,Richardson,Texas,75004,
+743,Marlo,Loy,Tomasek,585-672-2449,488-358-8606,156 Maryland Court,Dallas,Texas,,,,,,,
+744,Millard,Bartlett,Muino,,893-958-0205,345 Erie Pass,Dallas,Texas,75052,827-866-4417,902 Emmet Place,Allen,Texas,75008,
+745,Silvana,,Lumbers,,477-280-6150,4 Mallory Point,Richardson,Texas,,,,,,,1996-09-23
+746,Katti,Phil,Orrah,,144-684-9231,8772 Iowa Road,Richardson,Texas,75065,,9410 Northridge Crossing,Richardson,Texas,75005,
+747,Brandtr,Jackson,Ketchell,761-787-3129,155-859-2860,57 Hermina Center,Plano,Texas,75025,994-761-1526,9130 Maple Crossing,Allen,Texas,75003,1984-06-05
+748,Rakel,,Friman,,411-462-2089,,,,75082,,2 Rusk Crossing,Plano,Texas,75002,
+749,Connie,Alard,Quene,,367-914-9091,,,,75076,212-358-8470,0 Red Cloud Drive,Richardson,Texas,75006,
+750,Fanni,,Blancowe,,739-981-9312,,,,,,,,,,
+751,Roseanna,,Acors,550-782-4535,527-673-8144,820 Becker Trail,Richardson,Texas,,,81 Dunning Point,Allen,Texas,75005,1984-04-14
+752,Merry,Faunie,Geillier,113-243-0751,871-873-4280,92 Onsgard Point,Allen,Texas,75043,,1 Dixon Circle,Richardson,Texas,75003,1993-01-28
+753,Jeffie,Melinda,Rampton,651-398-9878,925-942-3489,,,,75081,,,,,,1984-07-08
+754,Angelica,,Tythe,,202-862-7214,6342 Eastwood Trail,Allen,Texas,75008,759-281-5716,,,,,1975-12-28
+755,Sherman,,Mundow,,790-311-3319,,,,75037,406-714-5478,28986 Bunker Hill Plaza,Allen,Texas,75002,1978-02-05
+756,Licha,Nap,Perutto,,164-195-2433,,,,75014,492-299-1126,,,,,1967-12-09
+757,Ethelyn,,Sundin,,715-368-2670,8332 Larry Center,Addison,Texas,75005,846-610-1635,,,,,
+758,Benita,Nan,Larrosa,699-592-2201,703-430-0243,66 Jenifer Avenue,Addison,Texas,,,,,,,
+759,Conn,Vere,Wessing,916-874-2835,435-980-5496,77474 Anhalt Junction,Plano,Texas,75094,,,,,,
+760,Lindsy,Devonne,Jina,,175-885-5598,23 Scott Plaza,Addison,Texas,75076,395-578-2184,,,,,
+761,Nan,,Lilleyman,893-325-8654,,5236 Linden Park,Dallas,Texas,,807-169-3416,69224 Prentice Alley,Richardson,Texas,75008,
+762,Luke,Aaron,Ronaghan,,245-280-5114,581 2nd Avenue,Allen,Texas,75029,251-877-3283,,,,,
+763,Wandie,,Haresnape,,193-469-6202,80509 Glendale Circle,Plano,Texas,75076,,93 Division Circle,Richardson,Texas,75005,1978-11-04
+764,Windham,Kendal,Heersema,,354-528-6045,,,,75069,,,,,,
+765,Nananne,,Osman,131-239-6896,984-498-4524,905 Muir Circle,Richardson,Texas,75062,,,,,,
+766,Annalise,Edeline,Ianiello,,179-878-9463,,,,,687-121-2366,,,,,1994-11-21
+767,Ajay,Sherill,Hughes,,515-908-3850,6190 Sutherland Circle,Dallas,Texas,,789-800-0107,379 Eliot Junction,Addison,Texas,75008,
+768,Benedicto,,Shinton,,226-829-9439,9022 Shopko Lane,Richardson,Texas,,,,,,,
+769,Hadria,,Bullas,815-464-7708,582-188-7155,1384 Arizona Road,Richardson,Texas,75046,409-916-7452,69 Clove Drive,Addison,Texas,75005,
+770,Lian,Junie,Boog,,354-502-9009,96058 Lakewood Place,Allen,Texas,75028,354-737-3709,,,,,1993-08-13
+771,Jerrilee,,Daburn,,232-954-2721,,,,75080,714-577-1869,096 Claremont Circle,Dallas,Texas,75005,1979-08-07
+772,Terrijo,Lucas,Nyssens,,475-759-8362,63 Jenifer Parkway,Dallas,Texas,,,93380 Northfield Hill,Addison,Texas,75001,1992-04-10
+773,Katy,,Artiss,638-201-7276,495-717-8160,120 Loomis Avenue,Dallas,Texas,75086,540-412-6074,06050 Sunbrook Park,Plano,Texas,75001,1986-07-14
+774,Sabina,,Western,763-441-0092,236-882-1672,20022 Marcy Hill,Dallas,Texas,75054,262-977-6146,8 Nova Circle,Dallas,Texas,75001,1981-12-28
+775,Harman,Courtenay,Bartalin,636-748-3132,675-770-6272,40973 Victoria Center,Richardson,Texas,75080,421-886-8330,35503 Melvin Parkway,Dallas,Texas,75003,1987-01-11
+776,Willem,,Ivanichev,,677-287-5171,,,,,463-169-1702,19 Heffernan Terrace,Dallas,Texas,75004,
+777,Gwenette,Chadd,Mathou,,658-234-4773,,,,75010,,,,,,
+778,Blair,Ky,Condell,,771-868-0578,,,,75038,783-899-8456,6157 Ramsey Alley,Plano,Texas,75008,1986-01-07
+779,Pauly,Tresa,Sabbatier,,958-420-4603,,,,,523-274-3133,,,,,1990-04-08
+780,Cale,,Bleasdale,961-814-7422,,32266 Bartillon Avenue,Plano,Texas,,572-665-0771,489 Heath Street,Allen,Texas,75002,
+781,Artemas,,Dugald,,736-364-7316,42352 Fuller Way,Plano,Texas,,365-888-2710,,,,,1995-01-15
+782,Doy,Consalve,Gonnelly,818-918-9740,273-211-9574,75395 Luster Plaza,Dallas,Texas,,,5 Eastlawn Terrace,Richardson,Texas,75006,
+783,Chevy,Dorelia,Swadling,,158-452-0388,22617 Farragut Park,Richardson,Texas,75021,818-557-1124,939 Ohio Terrace,Allen,Texas,75009,1991-11-10
+784,Lanie,,Starton,446-158-9664,647-133-1410,,,,75088,,,,,,1980-01-19
+785,Adelice,Gilda,Hadaway,665-826-5055,612-975-2427,,,,,,0031 Briar Crest Alley,Plano,Texas,75006,1986-07-25
+786,Hillie,,Chantrell,,764-413-6459,808 Weeping Birch Lane,Addison,Texas,,,6117 Jenna Place,Allen,Texas,75007,
+787,Matti,Winne,Fuster,,269-173-4766,3088 Troy Trail,Richardson,Texas,75074,665-560-9478,,,,,1982-11-13
+788,Bria,Babs,Caseley,,939-231-3713,,,,75009,369-555-8732,3434 Reindahl Road,Addison,Texas,75004,1970-06-24
+789,Emelyne,Beulah,Richmond,611-949-7678,577-976-2774,72330 Emmet Circle,Plano,Texas,75093,,,,,,
+790,Clem,Lotty,Hawkswood,,584-724-4248,7 Armistice Place,Richardson,Texas,75064,102-140-8293,4 Service Park,Plano,Texas,75002,1978-01-08
+791,Ernestine,Padget,Bannon,677-469-9455,553-604-9124,5 Schmedeman Plaza,Addison,Texas,,828-857-5737,8 Carberry Road,Plano,Texas,75007,1973-12-24
+792,Abram,,Gunton,399-360-8637,718-132-7090,07 Rockefeller Hill,Allen,Texas,75044,630-816-6545,,,,,
+793,Kerstin,,Dumbleton,221-309-4868,124-216-7599,84513 Heath Pass,Plano,Texas,75026,216-602-0444,56 Evergreen Circle,Richardson,Texas,75002,1971-07-06
+794,Keenan,Bridgette,Fawdry,218-700-3506,323-360-8000,24976 Eagan Parkway,Addison,Texas,75065,284-300-9216,8 Alpine Lane,Dallas,Texas,75004,
+795,Ashien,,McGuff,797-168-6816,205-769-5463,,,,75035,990-486-3670,1783 Glendale Alley,Dallas,Texas,75003,1989-12-11
+796,Stinky,Cayla,Cownden,,581-392-0541,,,,75039,,96 Calypso Lane,Dallas,Texas,75001,1992-01-23
+797,Deanna,Salomi,Rzehor,,424-455-7802,6 Tomscot Point,Addison,Texas,,,,,,,1992-03-20
+798,Dani,,Tomson,,679-119-6948,263 1st Street,Allen,Texas,75040,,9925 Algoma Pass,Allen,Texas,75006,
+799,Jaquelin,,Feeney,778-903-7321,765-800-5698,75023 Carioca Drive,Plano,Texas,75013,188-429-2865,,,,,1970-08-15
+800,Gavrielle,,Simoneau,,463-902-4296,16 Acker Center,Addison,Texas,75099,464-341-2474,83 Prairieview Circle,Allen,Texas,75002,1975-07-12
+801,Bendix,,Davidesco,,152-159-2780,903 Becker Avenue,Allen,Texas,75057,,4 Springs Avenue,Dallas,Texas,75009,
+802,Ravid,,Meah,337-743-5462,900-564-1292,3649 Judy Pass,Dallas,Texas,,,,,,,
+803,Queenie,,Guiso,216-162-9865,367-493-3539,959 Tony Alley,Allen,Texas,75012,652-464-7873,7323 Monica Circle,Richardson,Texas,75003,1993-12-23
+804,Yasmeen,Mayer,Miskelly,,714-232-1586,2694 Pankratz Avenue,Allen,Texas,75014,,21529 Everett Court,Addison,Texas,75005,1968-03-18
+805,Hyacinthia,,Baillie,,426-330-7105,23 Waxwing Center,Dallas,Texas,,740-581-8838,,,,,
+806,Darnall,Riva,Benko,,540-200-3639,1476 Ramsey Street,Richardson,Texas,75046,820-202-1804,,,,,1970-02-21
+807,Catlin,Ruperta,Seear,,,91870 Nevada Trail,Plano,Texas,75066,100-661-1518,1525 Duke Avenue,Richardson,Texas,75002,
+808,Boyce,Alverta,Booy,,247-864-8753,9 New Castle Hill,Allen,Texas,75043,890-116-9319,4 Golden Leaf Park,Dallas,Texas,75002,
+809,Dreddy,Derron,Langstaff,616-874-6016,737-232-4132,1909 Farmco Alley,Dallas,Texas,75021,,060 Express Center,Allen,Texas,75008,
+810,Morgana,Roanna,Sharpley,274-991-0736,776-832-5177,335 Forest Drive,Allen,Texas,75009,,,,,,1977-02-09
+811,Gwendolen,,Durston,,182-733-9114,24942 Talisman Pass,Allen,Texas,75032,969-823-1176,,,,,1973-08-28
+812,Maris,,Garside,,431-449-3115,2 Bashford Terrace,Richardson,Texas,75064,846-361-8738,118 Magdeline Drive,Richardson,Texas,75007,1969-04-25
+813,Nita,,Phelipeau,397-216-0932,944-558-2647,26 Roxbury Terrace,Dallas,Texas,75011,470-577-6907,,,,,1980-03-30
+814,Banky,Pauli,de Marco,335-651-6531,722-606-1802,28 7th Lane,Allen,Texas,,335-655-4840,02 Sunnyside Junction,Richardson,Texas,75005,
+815,Nannette,Teresita,Howchin,551-153-8333,283-889-0953,5 Messerschmidt Street,Plano,Texas,75069,191-290-6834,798 Pond Point,Addison,Texas,75007,
+816,Paulette,,Humbles,,622-752-0843,592 Park Meadow Center,Addison,Texas,75060,955-687-6674,,,,,1971-09-23
+817,Nicholas,Olivia,Dunphie,191-475-1188,845-171-0555,15752 Lillian Pass,Plano,Texas,75034,863-719-8150,,,,,1971-11-25
+818,Ozzy,Whitney,Fearenside,467-709-3343,879-419-6928,1159 Harbort Center,Plano,Texas,75007,,,,,,
+819,Delinda,,Bagge,,294-257-3187,14510 Northfield Street,Dallas,Texas,75023,379-625-9619,,,,,
+820,Adolphus,,Hynes,,850-113-0655,2171 Aberg Crossing,Addison,Texas,,509-451-7131,2584 Milwaukee Center,Dallas,Texas,75004,1986-04-10
+821,Katharina,Wilhelmina,Bryant,,444-854-0708,5 Dorton Crossing,Dallas,Texas,75050,184-262-2570,,,,,1991-09-09
+822,Whitney,Ber,Wasielewicz,,590-444-7984,2114 Ramsey Lane,Dallas,Texas,75014,637-487-7892,,,,,
+823,Tamma,Yale,Dupoy,310-311-3404,407-262-6721,05 Oxford Way,Richardson,Texas,,519-765-8448,639 Talisman Road,Addison,Texas,75002,
+824,Bevan,Ryon,Drance,,834-537-0203,4525 Fulton Alley,Dallas,Texas,75070,895-892-3925,84 7th Crossing,Addison,Texas,75008,1996-10-19
+825,Tad,,Meijer,953-890-4936,258-890-1612,9412 Kennedy Plaza,Richardson,Texas,75050,,,,,,
+826,Levey,,Kenwell,,636-442-5293,8 Monica Park,Richardson,Texas,75075,,,,,,1977-02-13
+827,Yorgo,,Moorfield,692-336-4421,343-451-6744,1 Manley Circle,Richardson,Texas,75052,924-787-8391,2521 Petterle Junction,Richardson,Texas,75009,1986-03-22
+828,Perceval,,Gawn,,771-969-9250,46 Bayside Point,Allen,Texas,75052,,615 Lunder Hill,Richardson,Texas,75001,1987-05-14
+829,Coop,Rafael,Simenet,454-608-7736,174-294-1074,,,,75006,,,,,,
+830,Kristin,Barrie,Wooder,617-789-0523,270-380-7807,,,,75086,,24624 Dovetail Crossing,Addison,Texas,75007,1978-04-10
+831,Samara,Beniamino,Schoenrock,920-275-8249,,14320 Beilfuss Hill,Plano,Texas,75033,302-786-4295,8 Nevada Point,Dallas,Texas,75003,
+832,Hart,Harli,Santorini,,406-805-5023,97 Holmberg Place,Addison,Texas,,,,,,,1984-04-01
+833,Cherilyn,Jerrilyn,Americi,,269-427-3689,27 Vahlen Street,Allen,Texas,75040,,,,,,1972-03-17
+834,Tallou,Patrica,Elsegood,,633-496-2564,46311 Caliangt Street,Plano,Texas,75030,,2769 Ramsey Junction,Allen,Texas,75002,1969-09-07
+835,Kort,,Eames,264-862-5184,343-943-3323,54 Novick Avenue,Plano,Texas,,,945 Hagan Terrace,Allen,Texas,75008,1965-09-03
+836,Rebecka,Kylie,Besson,512-144-3570,201-541-9001,09 Butternut Plaza,Allen,Texas,75044,,974 Green Center,Richardson,Texas,75007,
+837,Sheree,Charleen,Gallety,851-978-8586,962-703-9002,447 7th Pass,Addison,Texas,75038,883-823-1560,10 Harbort Plaza,Allen,Texas,75003,
+838,Arlana,Josey,Garrow,,215-180-4077,0559 Mosinee Park,Allen,Texas,75020,,417 Sachs Point,Dallas,Texas,75004,
+839,Laurella,,Stuther,,900-162-0415,96 Miller Plaza,Richardson,Texas,75098,,8875 Porter Drive,Dallas,Texas,75001,
+840,Ilario,Edy,Pimblotte,897-994-6381,233-835-0822,,,,75029,480-530-4680,,,,,
+841,Evangeline,Leonid,Anderson,,959-996-4686,1225 Corscot Lane,Plano,Texas,75099,859-693-9970,6880 Havey Park,Plano,Texas,75001,1992-02-05
+842,Madge,,Glassford,283-318-2108,717-877-3925,,,,,,9797 Summit Terrace,Plano,Texas,75002,
+843,Lian,Rudd,Gisbourn,,617-186-5787,31006 Londonderry Pass,Allen,Texas,75065,951-558-0099,,,,,1971-03-17
+844,Dyna,,Hadfield,,283-755-7709,,,,,,82863 Superior Circle,Dallas,Texas,75001,
+845,Donal,,Leaburn,,414-111-9268,13 Park Meadow Way,Allen,Texas,75065,287-784-2258,,,,,
+846,Randall,,Lickorish,986-267-9674,127-211-9811,9 Stephen Court,Richardson,Texas,,,1595 Moland Center,Addison,Texas,75002,
+847,Ambur,Gwenni,Ilyuchyov,,836-212-6365,,,,75022,897-289-5995,7558 Pawling Way,Allen,Texas,75001,1975-03-02
+848,Bren,,MacGorley,330-113-5710,831-799-3385,827 Riverside Lane,Addison,Texas,75063,762-226-6419,06 Vera Street,Allen,Texas,75003,
+849,Rodie,,Fentem,443-123-5572,592-373-9842,,,,75032,,0 Sachtjen Lane,Allen,Texas,75009,
+850,Stearn,,Aspden,,371-699-7087,2791 Susan Circle,Richardson,Texas,75093,684-855-3678,,,,,1982-06-01
+851,Stuart,,Locker,752-834-6762,712-748-3983,,,,,850-336-0262,,,,,1994-06-10
+852,Conway,Isabelita,Laskey,511-122-4019,253-819-0347,,,,,922-598-2752,46 Tony Terrace,Allen,Texas,75003,1976-04-08
+853,Ellswerth,Nahum,Leisk,126-341-6977,893-991-4691,4 Charing Cross Hill,Allen,Texas,75017,,6 Dottie Crossing,Plano,Texas,75001,
+854,Grete,,Dener,108-514-3652,592-773-8920,8314 Dennis Junction,Plano,Texas,75001,619-377-1740,,,,,1996-03-26
+855,Stanislaus,Lowell,McCullock,582-315-1074,773-970-7769,925 Rieder Junction,Richardson,Texas,75052,,5146 Grayhawk Junction,Allen,Texas,75006,1967-01-11
+856,Allene,Abeu,Pingstone,,562-151-7702,9 Ohio Street,Plano,Texas,,418-682-1742,,,,,
+857,Brigitte,Fax,Dibb,235-103-6400,475-516-0015,52 2nd Circle,Dallas,Texas,,,4 Mccormick Court,Addison,Texas,75005,1979-09-05
+858,Meyer,,Antoniou,,732-607-9193,16 Maryland Center,Richardson,Texas,,487-475-9225,,,,,1995-11-05
+859,Bryn,Issiah,Rycraft,,908-946-5348,,,,75049,,9520 Schiller Trail,Dallas,Texas,75006,1976-11-12
+860,Monique,,Ruskin,,,7 Fairfield Drive,Plano,Texas,75066,,,,,,1987-04-10
+861,Kelci,,Davioud,,869-605-8648,,,,75060,773-695-1138,,,,,1978-09-17
+862,Farr,Alison,Igoe,,566-451-9884,1295 Warbler Court,Richardson,Texas,75032,,157 Drewry Circle,Richardson,Texas,75008,
+863,Lesley,Filia,Palfreeman,,562-697-0174,93552 Muir Plaza,Dallas,Texas,75059,100-551-9931,,,,,
+864,Alley,,Stoeck,,,8 Stoughton Terrace,Addison,Texas,75096,263-674-7139,,,,,1967-03-16
+865,Austina,,Sherebrooke,493-614-2925,611-207-0976,2 Rutledge Lane,Allen,Texas,75019,,,,,,1986-01-05
+866,Rozanna,Damiano,Haggeth,,753-922-1251,57250 Butternut Alley,Dallas,Texas,75065,599-262-3891,,,,,
+867,Hakeem,,Puttrell,480-399-2911,156-990-4734,,,,,,41 Marquette Pass,Richardson,Texas,75005,1978-03-06
+868,Jackie,,Astridge,,572-872-6675,708 Grover Parkway,Allen,Texas,75083,932-257-8479,35864 Village Green Crossing,Richardson,Texas,75001,1978-02-22
+869,Derrek,Annis,Baylay,547-446-2676,785-171-6879,,,,75004,,5458 Starling Avenue,Dallas,Texas,75004,1979-11-05
+870,Skipton,,Axelbey,,131-317-1518,8590 Cardinal Place,Richardson,Texas,,198-627-3502,18664 Ridgeway Court,Addison,Texas,75003,1986-12-28
+871,Patric,Mendel,Verty,145-506-0145,485-304-0029,9 John Wall Terrace,Allen,Texas,75024,,,,,,1964-06-05
+872,Kitty,Gray,Broadley,,200-526-2666,93 Butterfield Center,Allen,Texas,75084,436-482-2868,,,,,
+873,Camella,Karel,Starford,728-983-3433,799-585-8288,65458 Glacier Hill Plaza,Dallas,Texas,75064,877-819-5507,,,,,1983-11-29
+874,Creight,,Normanvell,161-603-6586,446-417-1884,2498 Quincy Lane,Dallas,Texas,,492-191-9580,410 Maple Street,Richardson,Texas,75007,1992-12-29
+875,Basilius,,Latan,783-591-8077,318-407-3334,959 Hallows Plaza,Dallas,Texas,75061,768-153-5458,,,,,1967-05-17
+876,Alonso,Dedra,Flaunier,,964-726-2215,60 Ridgeway Plaza,Addison,Texas,,402-651-6655,67232 Brickson Park Street,Richardson,Texas,75002,
+877,Winslow,Nana,Aiskovitch,,972-937-5922,7272 Hayes Point,Allen,Texas,75008,975-151-3750,,,,,
+878,Merrill,Dorine,Heavy,,699-896-4652,6 Golf Parkway,Richardson,Texas,75003,636-938-4380,,,,,1982-11-27
+879,Vina,,Bisco,408-789-0878,774-736-3169,2 Grover Plaza,Richardson,Texas,75038,,,,,,1982-06-09
+880,Olivero,Cynthie,Strute,959-851-9998,626-288-0290,17226 Arapahoe Parkway,Richardson,Texas,,,8 Duke Crossing,Richardson,Texas,75007,1990-12-30
+881,Yvon,Viole,Giddons,,471-399-3025,,,,,,7534 Ludington Hill,Allen,Texas,75007,1978-01-02
+882,Delmer,Leland,Pingston,541-668-3252,968-208-2262,25 Arrowood Circle,Richardson,Texas,75053,,302 East Center,Dallas,Texas,75008,1986-11-20
+883,Maje,Caryl,McFadin,,146-826-1049,9 Springs Circle,Addison,Texas,75021,828-479-2638,18730 Calypso Place,Dallas,Texas,75004,
+884,Mayer,,Willox,513-213-1327,360-954-0551,84964 Division Avenue,Plano,Texas,75022,302-310-8598,10 Delladonna Junction,Plano,Texas,75004,1981-11-22
+885,Klara,,Loynes,413-849-9432,139-777-1175,849 1st Circle,Plano,Texas,,729-642-5024,,,,,
+886,Carline,Windy,Lees,,740-650-7982,,,,75038,822-426-0682,5208 Tennyson Alley,Richardson,Texas,75004,
+887,Tedie,Sebastiano,Koubek,109-881-7428,762-365-7049,,,,,151-802-2646,9 Kensington Circle,Addison,Texas,75006,
+888,Chris,,Foston,843-291-2521,521-860-4447,,,,75019,517-142-9744,,,,,1978-04-07
+889,Maddie,Gustave,Hould,694-542-6583,336-449-9484,84 Schmedeman Lane,Richardson,Texas,75022,,,,,,
+890,Michaelina,Mellisent,Pilmore,305-646-2294,267-928-7637,9 Montana Plaza,Dallas,Texas,75061,115-182-5549,,,,,1969-09-05
+891,Ashley,Cyndi,Casillis,,704-448-5776,,,,75010,645-457-8243,036 Welch Pass,Plano,Texas,75003,1965-05-26
+892,Stavros,Trace,Lindemann,853-520-5515,108-422-0748,25181 La Follette Place,Dallas,Texas,75056,131-163-9605,,,,,
+893,Anjanette,,Hasely,,304-621-4618,,,,75065,173-585-0760,8401 Vidon Center,Richardson,Texas,75008,
+894,Tracie,Bride,Ummfrey,,465-885-9521,8118 Eastlawn Parkway,Allen,Texas,75057,513-968-5046,2076 Vernon Junction,Plano,Texas,75004,1982-06-11
+895,Denise,Reilly,Noni,,586-522-6792,951 Forest Run Plaza,Richardson,Texas,75064,504-487-7687,,,,,
+896,Garek,,Chiese,908-891-9403,695-464-1164,,,,75013,,933 Lakewood Terrace,Addison,Texas,75006,1996-10-20
+897,Jany,Brade,Cordelle,,705-151-4680,5013 Ilene Hill,Dallas,Texas,,331-105-2795,,,,,
+898,Von,Lyssa,Weaving,,786-663-1035,8 Blaine Pass,Addison,Texas,,674-375-2354,,,,,1996-07-23
+899,Maurizia,Thibaud,Hannen,,925-150-5049,9463 Lake View Road,Allen,Texas,75059,,5154 Crowley Drive,Richardson,Texas,75001,
+900,Ilyssa,Umberto,Ferrulli,154-481-7732,336-531-2531,334 Almo Avenue,Dallas,Texas,75070,492-203-2282,719 Onsgard Court,Allen,Texas,75003,1996-03-12
+901,Jerry,,Davidovic,,433-829-3574,9 Moulton Avenue,Richardson,Texas,75052,396-866-1865,,,,,1991-04-29
+902,Chic,,Monketon,,135-569-2811,0695 Dakota Terrace,Addison,Texas,75069,,,,,,1971-10-16
+903,Junina,Calvin,Billingsley,,590-725-6958,472 Kennedy Road,Addison,Texas,75032,543-781-5916,09 Dexter Center,Addison,Texas,75002,1990-05-31
+904,Frank,,Spratt,316-661-6134,856-398-0578,9772 Eastwood Circle,Richardson,Texas,75080,809-903-7313,,,,,
+905,Kirk,Irwin,Tremmel,610-849-7960,405-294-0354,08299 Lillian Drive,Allen,Texas,75076,569-408-9837,72162 Pond Park,Addison,Texas,75008,
+906,Paulie,,Wragg,314-674-6210,365-921-2424,4 Porter Circle,Addison,Texas,75016,,11901 Mitchell Crossing,Dallas,Texas,75006,1975-04-17
+907,Wit,Gael,Maskell,906-962-3914,704-701-5716,904 Fremont Way,Allen,Texas,75090,715-490-8705,,,,,1989-06-05
+908,Arlan,,Christie,,903-538-4006,43 Randy Avenue,Richardson,Texas,,172-459-3393,320 Rutledge Trail,Addison,Texas,75005,
+909,Maiga,Nikkie,Skingley,132-481-0108,193-769-0070,87470 Northfield Circle,Allen,Texas,75088,356-598-5553,7539 Meadow Valley Junction,Dallas,Texas,75002,1996-08-10
+910,Estele,,Hyndson,974-937-3200,447-261-2908,72792 Donald Avenue,Richardson,Texas,,,37 Sloan Plaza,Richardson,Texas,75004,1968-10-22
+911,Sheffy,,Manklow,,532-690-2012,3 Walton Point,Plano,Texas,75064,764-862-4579,,,,,
+912,Cassandry,Edita,Sweeten,,662-288-1945,06 Reinke Point,Addison,Texas,,535-514-5330,78762 Oak Valley Terrace,Richardson,Texas,75002,1988-07-10
+913,Chilton,,Aldren,,519-805-8817,,,,75083,873-232-3815,,,,,1974-02-21
+914,Ettie,,Jarville,180-246-3349,278-628-1248,,,,75085,272-341-0221,,,,,1991-09-28
+915,Fiorenze,,Kanwell,,963-964-6693,26218 Prairieview Road,Allen,Texas,,,866 Heffernan Point,Addison,Texas,75005,1986-06-09
+916,Dino,Kaine,Chastanet,,548-444-1321,5181 Hanson Avenue,Dallas,Texas,75087,618-961-1432,49032 7th Drive,Dallas,Texas,75004,
+917,Norrie,Anastassia,Waterson,753-897-6727,927-420-0428,50 Eastwood Junction,Dallas,Texas,75045,549-614-2514,4 4th Circle,Addison,Texas,75002,
+918,Friedrich,Karlis,Bantick,,610-298-9312,8 Dapin Center,Dallas,Texas,,408-209-2742,9 Loftsgordon Drive,Richardson,Texas,75001,1974-05-04
+919,Sybille,,Brame,,177-625-0466,,,,75009,698-611-1794,26242 Upham Circle,Plano,Texas,75006,1982-03-31
+920,Arielle,,Coysh,937-153-8251,381-838-3680,20776 Wayridge Hill,Richardson,Texas,,925-543-3212,66919 Cody Trail,Dallas,Texas,75007,1989-01-25
+921,Lyndsey,,Edelmann,555-665-3833,306-302-4597,,,,75006,861-212-2774,,,,,1982-09-13
+922,Jerrilyn,,Pibworth,,583-175-7708,34866 Lindbergh Circle,Allen,Texas,75086,153-217-3714,2817 Lukken Pass,Dallas,Texas,75007,1973-03-15
+923,Antony,Melinda,Noon,,388-596-7894,11950 Meadow Ridge Street,Addison,Texas,75086,,,,,,1966-05-16
+924,Dorette,Elane,Crasford,,832-816-9702,634 Dennis Drive,Plano,Texas,75054,938-274-1169,6 Esch Place,Allen,Texas,75007,
+925,Bird,Justen,Entwistle,,476-548-1102,6 Steensland Plaza,Plano,Texas,75037,,350 Crowley Lane,Allen,Texas,75001,1968-12-06
+926,Fianna,Levon,Tomasino,829-485-3783,425-610-4193,0 Haas Alley,Plano,Texas,,649-293-4621,,,,,1974-01-10
+927,Louella,,Blaisdale,,968-538-6158,9835 Kropf Terrace,Dallas,Texas,75009,434-734-1027,09 Myrtle Street,Addison,Texas,75003,1970-08-05
+928,Giralda,Cyrus,McKevin,,962-673-5830,,,,75018,880-638-9246,,,,,
+929,Kele,Crin,Wieprecht,827-347-0145,950-929-7243,4768 Bay Pass,Richardson,Texas,,909-974-2259,4 Ruskin Alley,Addison,Texas,75001,
+930,Dyanna,,Vane,428-432-7721,362-811-5120,93 Lotheville Hill,Allen,Texas,75089,154-610-1051,33594 Debs Road,Dallas,Texas,75004,1982-11-24
+931,Joel,,Piller,,683-843-9184,9 Longview Pass,Richardson,Texas,,920-430-8576,8467 Dottie Place,Dallas,Texas,75009,1987-04-13
+932,Lock,,Castelletto,783-499-5995,369-495-7039,16872 Mosinee Place,Addison,Texas,75033,793-596-0425,,,,,
+933,Caresa,Ives,McGuigan,,704-135-3954,,,,,295-578-9581,,,,,1985-05-14
+934,Garrik,Antonia,Petracchi,,762-894-9374,5271 Drewry Circle,Plano,Texas,,,,,,,
+935,Worth,Samantha,Holmyard,,714-165-8456,64 Morningstar Junction,Allen,Texas,75075,789-266-0855,98238 Sloan Lane,Addison,Texas,75008,1982-08-06
+936,Diannne,,Arens,,248-295-1132,16689 Sunfield Center,Addison,Texas,,,422 Bobwhite Park,Addison,Texas,75009,
+937,Trace,,Glanz,682-231-9147,716-968-6727,8 Granby Junction,Dallas,Texas,75093,,,,,,1980-10-31
+938,Grantley,Lea,Vivash,733-509-1047,332-909-8747,0 Grim Trail,Dallas,Texas,75026,798-658-2702,38 Artisan Junction,Addison,Texas,75008,
+939,Orelia,,Bellringer,,638-754-6103,306 Graceland Drive,Addison,Texas,75094,291-495-6448,,,,,1983-04-03
+940,Antonius,Carmel,Perfili,730-957-6065,133-539-9549,4191 Del Sol Street,Allen,Texas,75049,,8685 Carey Crossing,Plano,Texas,75008,
+941,Viki,Patrizius,Bartosinski,,,290 Londonderry Drive,Plano,Texas,,247-726-4817,,,,,1975-05-12
+942,Orville,Shellie,Calender,,316-722-4796,3 Saint Paul Pass,Allen,Texas,75064,725-925-0587,,,,,1996-06-04
+943,Kent,Claudelle,Cundey,865-577-7549,342-499-4819,66 Surrey Circle,Dallas,Texas,75082,129-248-0082,6409 Warner Terrace,Dallas,Texas,75008,
+944,Malissa,,Winscomb,,247-852-4696,,,,,,5 Mallard Lane,Addison,Texas,75004,1982-12-17
+945,Elyn,Aimil,Sirey,210-180-3931,158-479-8009,51 Northridge Court,Addison,Texas,75010,726-948-9688,,,,,
+946,Chanda,,Leftridge,,221-613-6514,4 John Wall Park,Plano,Texas,75067,,0 Coolidge Street,Allen,Texas,75003,
+947,Yoko,Masha,Pyson,,738-414-8729,,,,75020,179-142-8780,21 Sutherland Road,Dallas,Texas,75008,1995-07-17
+948,Edyth,,Osbiston,672-415-3314,501-963-7323,88714 Hayes Junction,Addison,Texas,75005,521-631-5872,8615 Emmet Parkway,Allen,Texas,75001,1974-05-30
+949,Nedi,Selene,Skullet,,160-194-2393,497 Macpherson Alley,Dallas,Texas,75018,241-316-4084,71460 Meadow Valley Point,Plano,Texas,75001,1995-07-25
+950,Berget,,Handyside,760-557-9463,,06661 Westport Plaza,Plano,Texas,75073,654-930-0410,,,,,1978-08-28
+951,Linnea,Gwendolyn,Canacott,536-903-4795,650-372-6354,46513 Granby Lane,Plano,Texas,,465-252-2566,76928 Little Fleur Street,Dallas,Texas,75007,
+952,Maribel,,Foad,,830-430-3997,5 Merry Crossing,Richardson,Texas,75055,476-284-6613,,,,,
+953,Mortimer,Reginauld,Perassi,101-910-0766,695-426-5891,83 Mcguire Plaza,Plano,Texas,75092,950-315-9532,6798 Gale Point,Plano,Texas,75008,1969-08-22
+954,Betteanne,Gabie,Dosdell,359-899-2375,254-431-8674,88888 Anthes Park,Allen,Texas,75033,978-140-2685,6 Gale Lane,Addison,Texas,75003,1978-03-10
+955,Teador,Adela,Enever,,449-656-2670,2167 Village Green Hill,Dallas,Texas,75077,232-687-6979,,,,,1966-10-05
+956,Titos,Betsey,Meo,,775-849-0874,,,,75074,,5 Weeping Birch Avenue,Dallas,Texas,75008,
+957,Rachele,,Garbett,400-904-9947,450-490-8847,336 Petterle Street,Richardson,Texas,75087,,7386 Scott Drive,Dallas,Texas,75003,
+958,Emeline,,Bagot,122-806-0688,802-791-8423,1 Ludington Place,Addison,Texas,,624-669-3214,5204 Messerschmidt Avenue,Plano,Texas,75006,1993-09-04
+959,Wilek,Eleni,MacClancey,,634-358-4269,35 Judy Street,Allen,Texas,,122-143-1477,358 Northwestern Hill,Plano,Texas,75007,
+960,Moises,Lida,Pomfrey,201-306-1291,310-561-3883,,,,75086,751-605-6734,,,,,1972-01-29
+961,Cathy,,Alelsandrovich,,188-364-4360,5 Mockingbird Point,Allen,Texas,75006,254-306-7137,,,,,
+962,Rosana,Nonna,Postgate,333-404-2278,473-801-5006,,,,75008,612-765-5005,2612 Duke Avenue,Plano,Texas,75004,
+963,Lorraine,,Culcheth,,982-989-8369,5 Harper Crossing,Allen,Texas,75069,570-595-8540,4 Westerfield Court,Plano,Texas,75007,
+964,Patric,Reina,Petrak,,135-857-3539,,,,75032,,,,,,1989-05-15
+965,Debra,Erda,Atcherley,,357-246-4169,768 Brentwood Crossing,Allen,Texas,,117-459-2460,,,,,1971-04-29
+966,Rochell,,Fabry,320-324-1739,618-850-7109,,,,,,,,,,
+967,Marci,,Cardall,141-469-5864,307-695-3290,053 Dakota Avenue,Addison,Texas,75073,893-969-1217,,,,,1972-10-28
+968,Tani,,Edgcombe,657-976-1268,751-314-1091,31568 Dakota Crossing,Richardson,Texas,75024,,48011 Karstens Circle,Addison,Texas,75001,
+969,Shel,,Tillot,457-890-2399,522-532-7632,489 Quincy Hill,Plano,Texas,75035,772-392-5742,,,,,1996-07-11
+970,Gaynor,,Rucklesse,,430-408-0373,6 Rutledge Parkway,Dallas,Texas,75047,,,,,,1986-12-21
+971,Asher,,Wasselin,,350-773-0890,5452 Walton Junction,Richardson,Texas,75074,727-591-4194,,,,,
+972,Ninnetta,Vitia,Heasman,236-716-1495,805-597-6743,22 Dwight Center,Addison,Texas,75033,474-611-4311,,,,,1980-12-18
+973,Cecilius,,Popelay,,338-961-3558,9 Kim Alley,Plano,Texas,75083,281-163-7057,,,,,
+974,Rhetta,Lisle,Hall-Gough,611-473-9520,501-940-1523,17 Killdeer Parkway,Addison,Texas,75087,513-590-6081,553 Sycamore Way,Dallas,Texas,75001,1970-04-29
+975,Elsinore,,Cretney,118-808-6105,684-423-9257,70338 Clyde Gallagher Street,Dallas,Texas,75036,911-135-9814,0059 Hoepker Place,Richardson,Texas,75009,
+976,Annis,Chevalier,Zum Felde,444-807-2663,213-779-9815,204 Caliangt Way,Dallas,Texas,75049,725-849-3877,89641 Kings Place,Addison,Texas,75001,
+977,Merrel,Roberto,Sillwood,189-943-3809,814-757-2525,,,,,916-120-2308,8 Hoepker Lane,Plano,Texas,75001,1985-01-08
+978,Boy,Reeva,Elwyn,627-850-8581,722-225-7767,7637 Burrows Alley,Addison,Texas,75085,680-399-1077,,,,,
+979,Bryna,,Vaskov,,727-717-8575,,,,75001,509-326-1544,36884 Milwaukee Street,Dallas,Texas,75007,
+980,Brad,Sallyann,Clell,,603-661-8661,0 Colorado Way,Richardson,Texas,,885-458-7049,,,,,1985-08-15
+981,Salomi,,Stockin,,584-623-3883,07151 Anderson Trail,Allen,Texas,75079,195-829-1027,501 Valley Edge Park,Richardson,Texas,75009,1976-03-05
+982,Der,,Scarlan,,133-729-1440,0 Annamark Alley,Allen,Texas,75098,153-854-4154,,,,,1978-03-01
+983,Shannen,Anna,Purselow,,404-917-0949,5 Coleman Lane,Dallas,Texas,75001,,,,,,1992-05-17
+984,Lilith,Alejandro,Childerhouse,164-120-1050,559-290-1726,853 5th Terrace,Richardson,Texas,,554-290-9935,,,,,1983-02-25
+985,Karita,Brice,Risbridge,,882-789-1124,46789 Moulton Crossing,Addison,Texas,75099,935-280-2452,2 Elgar Place,Plano,Texas,75006,1972-12-10
+986,Rosaline,,Bowker,,643-101-9733,,,,,,,,,,1970-04-02
+987,Joey,,Burt,,713-594-7295,1 Thierer Drive,Richardson,Texas,75017,603-266-1070,161 Katie Drive,Addison,Texas,75009,1978-08-17
+988,Marjory,,Holgan,194-870-5733,984-335-4433,7 Brown Hill,Addison,Texas,75077,998-707-5639,86 Meadow Vale Park,Plano,Texas,75001,
+989,Adler,Urban,Beake,,916-995-4675,8 Huxley Junction,Plano,Texas,75029,,,,,,
+990,Jon,Danni,Bolley,,125-555-5586,70 Del Mar Junction,Plano,Texas,75062,,0 Lillian Alley,Addison,Texas,75005,
+991,Shawn,,Whetland,,315-727-4644,5228 Commercial Crossing,Allen,Texas,,569-411-8436,67 Continental Hill,Dallas,Texas,75008,
+992,Rhodie,Cross,Stovine,,630-956-5252,5 Blue Bill Park Street,Plano,Texas,75003,914-785-8696,72701 Morningstar Way,Dallas,Texas,75005,
+993,Raimondo,,Hubbard,,871-510-0110,51469 Becker Point,Dallas,Texas,75014,,,,,,1989-05-15
+994,Darcey,,Paolazzi,597-896-7953,281-491-8104,583 Manufacturers Avenue,Richardson,Texas,,644-184-8850,38 Shoshone Terrace,Dallas,Texas,75006,1996-02-05
+995,Carlos,Jessy,Barsam,456-537-7814,499-711-1417,0648 Lakewood Street,Plano,Texas,75006,929-545-6545,,,,,1971-07-05
+996,Zared,Alan,Fontell,121-713-2260,511-907-3315,13 Main Way,Addison,Texas,75089,878-331-9664,46412 Vahlen Park,Addison,Texas,75007,1995-12-31
+997,Janeta,,Showers,311-345-4648,273-728-1271,782 Lighthouse Bay Pass,Allen,Texas,75060,,3 Pennsylvania Terrace,Addison,Texas,75009,
+998,Carlen,,Bickle,,220-911-1306,008 Ryan Center,Plano,Texas,,266-423-8899,67720 Myrtle Parkway,Dallas,Texas,75005,1993-03-07
+999,Selie,Susana,Dahl,,470-418-2608,5729 Farragut Plaza,Dallas,Texas,75079,290-423-8165,,,,,1977-08-12
+1000,Adina,,Demougeot,851-955-4193,952-976-4138,18201 Novick Circle,Richardson,Texas,75037,,,,,,
