@@ -2,15 +2,6 @@
 ### CS6360 - Database Design Project
 #### Rutvij Shah - RDS190000
 
-
-<br> 
-
-`NOTE: Find detailed docs in ./docs` 
-
-<br>
-
-`NOTE: Change paths in config.py & all .sh files.`
-
 ## Technical Requirements
 
 - Language: Python v3.9.5
@@ -21,17 +12,18 @@
 - Miscellaneous: 
   - `pipreqs` to generate requirements file without extraneous specs 
   - `pandoc` for using `document_gen.sh`
+- `NOTE: Find detailed docs in ./docs`
 
 ## Setup
 
 - Setup a Python 3.9.5+ environment
 - Install requirements file
 - Create folder `src/generated_views`
-- Change the interpreter path in `run.sh` to your local environment.
+- Change the interpreter path in `build.sh` to your local environment.
 - Change the database paths in `src/config.py` to your local database location & csv file location.
-- Run `build.sh`
+- Run `build.sh` using `bash build.sh`
   - Builds the python files for UI files in `./ui` and stores them in 
-  `src/generated_views`
+  `src/generated_views` if run within a virtual environment with `pyuic5` available, else skips this step.
   - Runs `python3 create_db.py` to create the database
   - Runs `define_text_search.sql` to create a virtual table using FTS5, 
   a module which affords full text-search capabilities in SQLite DBs.

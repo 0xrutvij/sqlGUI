@@ -171,6 +171,7 @@ class HomePage(QMainWindow):
         self.ui.contactsSearchTable.setModel(search_table_model)
         self.ui.contactsSearchTable.resizeColumnsToContents()
 
+
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     win = HomePage()

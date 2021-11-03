@@ -1,4 +1,4 @@
-#!/Users/rutvijshah/PycharmProjects/sqlGUI/venv/bin/activate
+#! /bin/zsh
 
 pandoc docs/DesignDoc.md --pdf-engine=xelatex -o docs/DesignDoc.pdf
 pandoc docs/README.md --pdf-engine=xelatex -o docs/README.pdf

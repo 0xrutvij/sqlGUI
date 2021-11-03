@@ -1,13 +1,17 @@
-#!/Users/rutvijshah/PycharmProjects/sqlGUI/venv/bin/activate
+#! /bin/zsh
 
-files=($(ls ./ui))
 
-for x in $files; do
-  pyuic5 ./ui/"$x" > ./src/generated_views/"${x%%.*}".py
-done
+if command -v pyuic5 &> /dev/null
+then
+  for x in ./ui/*; do
+    pyuic5 "$x" > ./src/generated_views/$(basename "$x" .ui).py
+  done
+else
+  echo "pyuic5 not found, using exisiting UI -> .py conversions"
+fi
 
-rm -rf contacts.db
+rm -rf resources/contacts.db
 python3 create_db.py
-sqlite3 contacts.db < ./sqlQueries/define_text_search.sql
-sqlite3 contacts.db < ./sqlQueries/populate_text_search.sql
-sqlite3 contacts.db < ./sqlQueries/triggers.sql
+sqlite3 resources/contacts.db < ./sqlQueries/define_text_search.sql
+sqlite3 resources/contacts.db < ./sqlQueries/populate_text_search.sql
+sqlite3 resources/contacts.db < ./sqlQueries/triggers.sql
