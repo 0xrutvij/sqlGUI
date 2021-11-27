@@ -189,7 +189,7 @@ class ContactForm(QDialog):
             self.setup_addresses()
 
     def add_phone(self):
-        dlg = PhoneEditor(("", "123-1231231"))
+        dlg = PhoneEditor(("", ""))
         if dlg.exec() == QDialog.Accepted:
             if self.cid != -1:
                 self.sql_crud_model.add_phone_for_cid(

@@ -46,7 +46,10 @@ class PhoneEditor(QDialog):
         self.phone_pair = phone_pair
 
         ptype, pval = self.phone_pair
-        area_code, number = pval.split("-", 1)
+        area_code, number = "", ""
+        if pval:
+            area_code, number = pval.split("-", 1)
+
         self.ui.typeField.setText(ptype)
         self.ui.areaField.setText(area_code)
         self.ui.numberField.setText(number)

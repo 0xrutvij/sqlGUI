@@ -99,6 +99,9 @@
            <height>22</height>
           </size>
          </property>
+         <property name="placeholderText">
+          <string>123</string>
+         </property>
         </widget>
        </item>
       </layout>
@@ -131,6 +134,9 @@
            <width>175</width>
            <height>22</height>
           </size>
+         </property>
+         <property name="placeholderText">
+          <string>1231231</string>
          </property>
         </widget>
        </item>
