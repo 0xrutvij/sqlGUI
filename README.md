@@ -1,6 +1,9 @@
 # Contact List - A Database Interface Graphical App
 ### CS6360 - Database Design Project
-#### Rutvij Shah - RDS190000
+
+## Application & Design Docs
+- Using the contatct list [app](https://github.com/0xrutvij/sqlGUI/blob/main/Quickstart.md).
+- [Design documentation](https://github.com/0xrutvij/sqlGUI/blob/main/DesignDoc.md). 
 
 ## Technical Requirements
 
